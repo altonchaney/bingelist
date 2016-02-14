@@ -1,0 +1,45 @@
+
+<section id="show-header">
+  <div style="background-image: url('{{ tvshow.image.original }}');" class="show-header-container">
+    <div class="show-header-overlay">
+      <div class="show-header-content">
+        <h1 class="show-title">{{ tvshow.name }}</h1>
+        <h2 class="show-seasons">{{ tvshow.premiered | date:"yyyy" }}-{{ tvshow._embedded.previousepisode.airdate | date:"yyyy" }}  ·  <ng-pluralize count="maxSeasons" when="{'one': '1 Season', 'other': '{} Seasons'}"></ng-pluralize></h2>
+        <div class="episode-breakdown-list">
+          <h3 class="label-list">Episodes</h3>
+          <div class="list-item all active">{{ episodes.length }}</div>
+          <p class="label-all">All</p>
+          <div class="list-item required">48</div>
+          <p class="label-required">Required</p>
+          <div class="list-item maybe">14</div>
+          <p class="label-maybe">Maybe</p>
+          <div class="list-item filler">10</div>
+          <p class="label-filler">Filler</p>
+        </div>
+        <button class="episode-filter-expand inactive all"></button>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="show-list">
+  <div itemscope="itemscope" itemtype="http://schema.org/Thing" ng-repeat="episode in episodes | orderBy:'airdate'" class="show-season-container">
+    <!--.show-season-header
+    h3 Season 1
+    button.show-season-close
+    -->
+    <div class="show-episode open required">
+      <h2 class="episode-number"><twodigit content="episode.season"></twodigit>.<twodigit content="episode.number"></twodigit></h2>
+      <h1 class="episode-title">{{ episode.name }}</h1>
+      <h2 class="episode-aired">Aired {{ episode.airdate }}</h2>
+      <button class="episode-expand inactive"></button>
+      <div class="episode-details open">
+        <h3 class="detail-header">Synopsis</h3>
+        <p class="detail-synopsis">{{ episode.summary }}</p>
+        <h3 class="detail-header">Air Date</h3>
+        <p class="detail-date">{{ episode.airdate }}</p>
+        <h3 class="detail-header">Episode Status</h3>
+        <p class="detail-status">Must Watch</p>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,493 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, Sans;
+}
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  transition: 0.3s;
+}
+button {
+  padding: 0;
+  border: none;
+  background-color: rgba(0, 0, 0, 0);
+}
+#container {
+  margin-top: 50px;
+}
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color: #1a1a1a;
+  position: fixed;
+  top: 0;
+}
+.navbar > .navbar-container {
+  width: 100%;
+  height: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0;
+}
+.navbar > .navbar-container > .navbar-logo {
+  background-image: url("../img/nav-logo.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 90px;
+  height: 40px;
+  float: left;
+  margin: 5px -4px 0 -4px;
+}
+.navbar > .navbar-container > .navbar-links > ul {
+  list-style: none;
+  margin: 0;
+}
+.navbar > .navbar-container > .navbar-links > ul > li {
+  margin: 15px 0 0 30px;
+  float: left;
+}
+.navbar > .navbar-container > .navbar-links > ul > li > a {
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+}
+.navbar > .navbar-container > .navbar-search {
+  float: right;
+}
+.navbar > .navbar-container > .navbar-search > .search-container {
+  width: 300px;
+  height: 40px;
+  margin: 5px 0;
+}
+.navbar > .navbar-container > .navbar-search > .search-container > .search-box {
+  height: 100%;
+  width: 100%;
+  border: none;
+  padding: 0;
+  font-family: "Merriweather", Georgia, Times, Serif;
+  font-weight: 300;
+  float: left;
+  z-index: 1002;
+}
+.navbar > .navbar-container > .navbar-search > .search-container > a {
+  float: right;
+  z-index: 1003;
+  margin-top: -40px;
+}
+.navbar > .navbar-container > .navbar-search > .search-container > a > .search-icon {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.navbar > .navbar-container > .navbar-search > .search-container.inactive > .search-box {
+  pointer-events: none;
+  cursor: default;
+  background-color: rgba(0, 0, 0, 0);
+}
+.navbar > .navbar-container > .navbar-search > .search-container.inactive > .search-box::-webkit-input-placeholder {
+  color: rgba(0, 0, 0, 0);
+}
+.navbar > .navbar-container > .navbar-search > .search-container.inactive > .search-box:-moz-placeholder {
+  color: rgba(0, 0, 0, 0);
+}
+.navbar > .navbar-container > .navbar-search > .search-container.inactive > .search-box::-moz-placeholder {
+  color: rgba(0, 0, 0, 0);
+}
+.navbar > .navbar-container > .navbar-search > .search-container.inactive > .search-box:-ms-input-placeholder {
+  color: rgba(0, 0, 0, 0);
+}
+.navbar > .navbar-container > .navbar-search > .search-container.inactive > a > .search-icon {
+  background-image: url("../img/btn-search-white.svg");
+}
+.navbar > .navbar-container > .navbar-search > .search-container.active > .search-box {
+  background-color: #ffffff;
+  color: rgba(255, 255, 255, 0.8);
+}
+.navbar > .navbar-container > .navbar-search > .search-container.active > a > .search-icon {
+  background-image: url("../img/btn-search-black.svg");
+}
+#masthead > .masthead-container {
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  height: 160px;
+  background-image: url("../img/tvsampleimage.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#masthead > .masthead-container > .masthead-overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+#masthead > .masthead-container > .masthead-overlay > h1.masthead-title {
+  font-weight: 800;
+  line-height: 18px;
+  font-size: 32px;
+  padding-top: 55px;
+  margin: 0;
+}
+#masthead > .masthead-container > .masthead-overlay > h2.masthead-subtitle {
+  font-weight: 300;
+  line-height: 21px;
+  font-size: 18px;
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, Sans;
+  padding-top: 12px;
+  margin: 0;
+}
+.body-container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+.body-container > #intro > .intro-container {
+  margin: 40px 0;
+}
+.body-container > #intro > .intro-container > .intro-video {
+  max-width: 320px;
+  float: left;
+}
+.body-container > #intro > .intro-container > .intro-video > video {
+  width: 220px;
+  height: 220px;
+  background-color: blue;
+  margin: 0 50px;
+}
+.body-container > #intro > .intro-container > .intro-text {
+  max-width: 320px;
+  float: right;
+}
+.body-container > #intro > .intro-container > .intro-text > p {
+  font-size: 20px;
+  line-height: 28px;
+  color: #1a1a1a;
+  font-weight: 300;
+  margin: 0;
+}
+.body-container > #recent {
+  clear: both;
+}
+.body-container > #recent > h1.section-title {
+  font-weight: 300;
+  font-size: 24px;
+}
+.body-container > #recent > .see-more {
+  float: right;
+  font-family: "Merriweather", Georgia, Times, Serif;
+  margin-top: -40px;
+}
+.body-container > #recent > .show-snippet-container {
+  width: 320px;
+  height: 120px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  float: left;
+}
+.body-container > #recent > .show-snippet-container > .show-snippet-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+.body-container > #recent > .show-snippet-container > .show-snippet-overlay > .show-title {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 800;
+  margin: 0 0 -4px;
+}
+.body-container > #recent > .show-snippet-container > .show-snippet-overlay > .show-seasons {
+  font-size: 18px;
+  font-weight: 300;
+  margin: 0 0 4px;
+}
+.body-container > #recent > .show-snippet-container > .show-snippet-overlay > .episode-breakdown-list > .list-item {
+  font-family: "Merriweather", Georgia, Times, Serif;
+  border: 1px solid;
+  border-radius: 30px;
+  width: 30px;
+  height: 30px;
+  float: left;
+  padding: 2px 0 0 6px;
+  margin-right: 10px;
+}
+.body-container > #recent > .show-snippet-container > .show-snippet-overlay > .episode-breakdown-list > .list-item.all {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+.body-container > #recent > .show-snippet-container > .show-snippet-overlay > .episode-breakdown-list > .list-item.required {
+  color: #c4fac5;
+  border-color: #c4fac5;
+}
+.body-container > #recent > .show-snippet-container > .show-snippet-overlay > .episode-breakdown-list > .list-item.maybe {
+  color: #f9fac4;
+  border-color: #f9fac4;
+}
+.body-container > #recent > .show-snippet-container > .show-snippet-overlay > .episode-breakdown-list > .list-item.filler {
+  color: #fac4cd;
+  border-color: #fac4cd;
+}
+#show-header > .show-header-container {
+  color: #ffffff;
+  width: 100%;
+  height: 180px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#show-header > .show-header-container > .show-header-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 32px 0 0;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .show-title {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 800;
+  margin: 0 0 -4px;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .show-seasons {
+  font-size: 18px;
+  font-weight: 300;
+  margin: 0 0 4px;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > h3.label-list {
+  font-size: 12px;
+  font-family: "Merriweather", Georgia, Times, Serif;
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 300;
+  margin: -1px 0 4px;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item {
+  font-family: "Merriweather", Georgia, Times, Serif;
+  border: 1px solid;
+  border-radius: 30px;
+  width: 30px;
+  height: 30px;
+  float: left;
+  padding: 2px 0 0;
+  margin-right: 8px;
+  text-align: center;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item.all {
+  color: #ffffff;
+  border-color: #ffffff;
+  background-color: rgba(0, 0, 0, 0);
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item.all.active {
+  color: #1a1a1a;
+  background-color: #ffffff;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item.required {
+  color: #c4fac5;
+  border-color: #c4fac5;
+  background-color: rgba(0, 0, 0, 0);
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item.required.active {
+  color: #1a1a1a;
+  background-color: #c4fac5;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item.maybe {
+  color: #f9fac4;
+  border-color: #f9fac4;
+  background-color: rgba(0, 0, 0, 0);
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item.maybe.active {
+  color: #1a1a1a;
+  background-color: #f9fac4;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item.filler {
+  color: #fac4cd;
+  border-color: #fac4cd;
+  background-color: rgba(0, 0, 0, 0);
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > .list-item.filler.active {
+  color: #1a1a1a;
+  background-color: #fac4cd;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > p {
+  font-size: 12px;
+  font-family: "Merriweather", Georgia, Times, Serif;
+  font-weight: 300;
+  float: left;
+  margin: 8px 20px 0 0;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > p.label-all {
+  color: #ffffff;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > p.label-required {
+  color: #c4fac5;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > p.label-maybe {
+  color: #f9fac4;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-breakdown-list > p.label-filler {
+  color: #fac4cd;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-filter-expand {
+  height: 24px;
+  width: 24px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: none;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-filter-expand.inactive {
+  opacity: 0.5;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-filter-expand.active {
+  opacity: 1.0;
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-filter-expand.all {
+  background-image: url("../img/btn-filter-white.svg");
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-filter-expand.required {
+  background-image: url("../img/btn-filter-green.svg");
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-filter-expand.maybe {
+  background-image: url("../img/btn-filter-yellow.svg");
+}
+#show-header > .show-header-container > .show-header-overlay > .show-header-content > .episode-filter-expand.filler {
+  background-image: url("../img/btn-filter-red.svg");
+}
+#show-list {
+  max-width: 768px;
+  margin: 0 auto;
+}
+#show-list > .show-season-container > .show-season-header {
+  width: 100%;
+  height: 24px;
+  border-bottom: 1px solid #ffffff;
+  background-color: #999999;
+  color: #ffffff;
+  padding: 0 64px;
+}
+#show-list > .show-season-container > .show-season-header > h3 {
+  font-family: "Merriweather", Georgia, Times, Serif;
+  font-size: 12px;
+  margin: 0;
+  padding-top: 3px;
+}
+#show-list > .show-season-container > .show-season-header > .show-season-close {
+  height: 24px;
+  width: 24px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("../img/btn-close.svg");
+  float: right;
+  margin-top: -18px;
+}
+#show-list > .show-season-container > .show-episode {
+  width: 100%;
+  border-bottom: 1px solid #ffffff;
+  padding: 10px 64px;
+  overflow-y: hidden;
+}
+#show-list > .show-season-container > .show-episode.open {
+  height: 190px;
+}
+#show-list > .show-season-container > .show-episode.close {
+  height: 44px;
+}
+#show-list > .show-season-container > .show-episode.required {
+  background-color: #c4fac5;
+}
+#show-list > .show-season-container > .show-episode.maybe {
+  background-color: #f9fac4;
+}
+#show-list > .show-season-container > .show-episode.filler {
+  background-color: #fac4cd;
+}
+#show-list > .show-season-container > .show-episode.none {
+  background-color: #ffffff;
+}
+#show-list > .show-season-container > .show-episode > h2.episode-number {
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.4);
+  margin: 0 10px 0 0;
+  float: left;
+  font-size: 16px;
+}
+#show-list > .show-season-container > .show-episode > h1.episode-title {
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.8);
+  margin: 0;
+  font-size: 16px;
+}
+#show-list > .show-season-container > .show-episode > h2.episode-aired {
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.4);
+  margin: -20px 34px 0 0;
+  float: right;
+  font-size: 16px;
+}
+#show-list > .show-season-container > .show-episode > .episode-expand {
+  width: 44px;
+  height: 44px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: right;
+  margin: -31px -10px 0 0;
+}
+#show-list > .show-season-container > .show-episode > .episode-expand.inactive {
+  background-image: url("../img/btn-expand-down.svg");
+}
+#show-list > .show-season-container > .show-episode > .episode-expand.active {
+  background-image: url("../img/btn-expand-up.svg");
+}
+#show-list > .show-season-container > .show-episode > .episode-details {
+  font-size: 14px;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.8);
+}
+#show-list > .show-season-container > .show-episode > .episode-details.close {
+  display: none;
+  opacity: 0;
+}
+#show-list > .show-season-container > .show-episode > .episode-details.open {
+  display: block;
+  opacity: 1;
+}
+#show-list > .show-season-container > .show-episode > .episode-details > h3.detail-header {
+  font-family: "Merriweather", Georgia, Times, Serif;
+  font-size: 12px;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.4);
+  margin: 14px 16px 0 0;
+  float: left;
+  clear: left;
+}
+#show-list > .show-season-container > .show-episode > .episode-details > p.detail-synopsis {
+  line-height: 18px;
+  clear: both;
+  margin: 0;
+}
+#show-list > .show-season-container > .show-episode > .episode-details > p.detail-date {
+  margin: 12px 0 0;
+}
+#show-list > .show-season-container > .show-episode > .episode-details > p.detail-status {
+  margin: 12px 0 0;
+}
+footer {
+  display: none;
+}

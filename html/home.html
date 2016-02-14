@@ -1,0 +1,38 @@
+
+<section id="masthead">
+  <div class="masthead-container">
+    <div class="masthead-overlay">
+      <h1 class="masthead-title">Binge watch more concisely</h1>
+      <h2 class="masthead-subtitle">Catching up in your favorite shows has never been easier</h2>
+    </div>
+  </div>
+</section>
+<div class="body-container">
+  <section id="intro">
+    <div class="intro-container">
+      <div class="intro-video">
+        <video src="../img/intro-videos.mp4"></video>
+      </div>
+      <div class="intro-text">
+        <p>
+          So you want to dive into a new show, but are daunted by the dozens of hours it would take to catch up. Thankfully, we’ve got you covered. Each of our hand-crafted Binge Lists distill down an entire show’s episode list to ones that are critical to the main plot, allowing you to skip filler episodes.
+          
+        </p>
+      </div>
+    </div>
+  </section>
+  <section id="recent">
+    <h1 class="section-title">Newest Binge Lists</h1><a ng-href="/shows" ng-click="value = 2" class="see-more">See more »</a>
+    <div itemscope="itemscope" itemtype="http://schema.org/Thing" ng-repeat="tvshow in tvshows | orderBy:'updated' | limitTo:10" style="background-image: url('{{ tvshow.image.original }}');" class="show-snippet-container">
+      <div class="show-snippet-overlay"><a ng-href="/shows/{{ tvshow.id }}" class="show-title">{{ tvshow.name }}</a>
+        <div class="show-seasons">1 Season</div>
+        <div class="episode-breakdown-list">
+          <div class="list-item all">72</div>
+          <div class="list-item required">48</div>
+          <div class="list-item maybe">14</div>
+          <div class="list-item filler">10</div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

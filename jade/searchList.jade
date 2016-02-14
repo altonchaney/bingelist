@@ -1,0 +1,17 @@
+.product-container(
+	itemscope, itemtype="http://schema.org/Thing",
+	ng-repeat="product in products track by product.id")
+
+	.title.left {{ product.displayName }}
+	.age.right {{ product.id }}
+
+	figure.product(
+		itemscope, itemtype="http://schema.org/ImageObject")
+
+		.product-wrapper
+			img(src="{{ product.imageURL }}")
+		figcaption(itemtype="caption") {{ product.longDescription }}
+
+		.right
+			button
+				i.fa.fa-ellipsis-h

@@ -1,0 +1,17 @@
+
+<div class="navbar">
+  <div class="navbar-container"><a ng-click="changeView('home')" class="navbar-logo"><!-- svg background --></a>
+    <div class="navbar-links">
+      <ul>
+        <li><a ng-click="changeView('home')" ng-class="{active: routeIs('/')}">BROWSE</a></li>
+        <li><a ng-click="changeView('about')" ng-class="{active: routeIs('/about')}">ABOUT</a></li>
+      </ul>
+    </div>
+    <div class="navbar-search">
+      <div class="search-container inactive">
+        <input placeholder="search..." class="search-box"/><a href="#">
+          <button class="search-icon"></button></a>
+      </div>
+    </div>
+  </div>
+</div>

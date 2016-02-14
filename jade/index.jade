@@ -1,0 +1,27 @@
+doctype html
+html(lang=en)
+	head
+		title Binge List
+
+		meta(name="viewport", content="width=device-width, initial-scale=1")
+		
+		link(href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,600,300|Merriweather:300italic,400italic', rel='stylesheet', type='text/css')
+		link(rel='stylesheet', type='text/css', href='../css/normalize.css')
+		link(rel='stylesheet', type='text/css', href='../css/bingelist.css')
+
+		script(src='../vendor/angular/angular.js')
+		script(src='../vendor/angular/angular-route.js')
+		script(src='../vendor/angular/angular-animate.js')
+		script(src='../vendor/jquery-2.1.1.js')
+		script(src='../js/controllers.js')
+		script(src='../js/tvshow-api.js')
+		script(src='../js/tvshow-data.js')
+		script(src='../js/tvshow-feed.js')
+		script(src='../js/app.js')
+		
+		base(href="/")
+		
+	body(ng-app="bingeList")
+		ng-include(src="'html/navbar.html'")
+		div#container.reveal-animation(ng-view)
+		ng-include(src="'html/footer.html'")

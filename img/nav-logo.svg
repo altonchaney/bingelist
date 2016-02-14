@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 90 40" style="enable-background:new 0 0 90 40;" xml:space="preserve">
+<font horiz-adv-x="2048">
+<!-- Merriweather is a trademark of Sorkin Type Co. -->
+<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Merriweather-LightItalic" units-per-em="2048" underline-position="-122" underline-thickness="96"/>
+<missing-glyph horiz-adv-x="1845" d="M1625,1416l0,-1416l-1405,0l0,1416M920,594l351,-365l115,117l-355,363l355,352l-121,119l-342,-362l-346,364l-116,-120l351,-357l-350,-336C465,366 494,333 549,270l34,-40z"/>
+<glyph unicode="b" horiz-adv-x="1176" d="M238,1550l16,68l204,32l41,-23l-88,-654C448,1025 497,1070 556,1107C615,1144 678,1163 747,1163C822,1163 885,1145 936,1108C987,1071 1025,1021 1050,956C1075,891 1087,815 1087,730C1087,621 1061,509 1010,392C959,275 885,177 789,98C692,19 581,-20 454,-20C413,-20 370,-15 323,-4C276,6 238,18 208,32l-77,-37l203,1521M297,130C340,95 400,78 478,78C574,78 656,112 725,180C793,247 844,331 879,431C914,530 931,626 931,719C931,823 913,904 877,962C840,1019 789,1048 723,1048C676,1048 631,1037 587,1014C543,991 504,964 471,931C438,898 411,865 392,833z"/>
+<glyph unicode="e" horiz-adv-x="1051" d="M957,913C957,817 915,736 832,670C748,603 650,553 539,520C428,487 332,469 251,467C250,447 249,432 249,422C249,367 258,315 275,265C292,215 319,174 357,141C395,108 444,92 504,92C563,92 624,105 687,132C750,159 809,199 864,254l37,-68C880,157 848,126 807,94C765,62 716,35 660,13C604,-9 546,-20 486,-20C397,-20 323,1 264,42C205,83 161,136 134,203C106,270 92,342 92,420C92,547 118,668 169,783C220,897 291,989 380,1059C469,1128 568,1163 676,1163C737,1163 789,1152 831,1131C873,1109 905,1079 926,1042C947,1004 957,961 957,913M641,1069C570,1069 507,1042 451,989C395,936 350,869 317,790C283,711 262,633 255,557C335,560 418,575 503,604C588,632 659,672 716,723C773,774 802,833 802,900C802,955 788,997 760,1026C731,1055 692,1069 641,1069z"/>
+<glyph unicode="g" horiz-adv-x="1149" d="M940,1121l115,42l-193,-1240C848,-176 813,-257 756,-322C699,-387 632,-434 557,-463C481,-493 407,-508 334,-508C293,-508 251,-504 210,-497C168,-490 136,-482 115,-473l38,148C187,-340 226,-353 271,-364C316,-375 361,-381 407,-381C470,-381 522,-373 562,-357C602,-342 634,-316 657,-280C680,-244 697,-194 707,-131l45,291C713,109 664,67 606,32C547,-3 484,-20 416,-20C343,-20 282,-2 233,35C183,72 146,122 121,187C96,252 84,327 84,412C84,521 110,634 162,751C214,868 289,966 386,1045C483,1124 596,1163 724,1163C761,1163 798,1159 837,1151C875,1143 909,1133 940,1121M879,1011C856,1030 829,1043 798,1052C767,1061 734,1065 701,1065C604,1065 520,1031 451,964C381,896 328,812 293,712C258,612 240,516 240,423C240,320 258,239 293,181C328,123 377,94 441,94C486,94 531,105 575,126C618,147 657,174 691,205C725,236 752,268 773,299z"/>
+<glyph unicode="i" horiz-adv-x="633" d="M168,1052l13,65l250,42l40,-21l-141,-980C329,147 328,140 328,136C328,119 331,107 337,98C343,89 350,85 359,85C374,85 390,90 407,101C423,112 443,130 467,156l26,-44C484,98 469,81 449,61C429,40 404,22 375,5C345,-12 313,-20 280,-20C247,-20 221,-12 202,5C182,21 172,47 172,83C172,107 178,160 189,241C200,322 217,435 239,580C264,743 285,887 302,1012M451,1622C479,1622 501,1614 518,1597C535,1580 543,1558 543,1531C543,1508 538,1486 527,1466C516,1446 502,1430 485,1419C467,1407 448,1401 427,1401C403,1401 383,1410 366,1429C349,1447 340,1470 340,1497C340,1520 346,1541 357,1560C368,1579 382,1594 399,1605C416,1616 434,1622 451,1622z"/>
+<glyph unicode="n" horiz-adv-x="1258" d="M173,1049l14,72l205,42l38,-20l-28,-261C462,962 532,1029 613,1083C694,1136 772,1163 849,1163C924,1163 980,1140 1019,1095C1058,1050 1077,974 1077,868C1077,832 1074,791 1067,744C1060,697 1050,641 1037,574l-13,-69l-11,-60C1002,382 992,327 985,282C978,236 973,194 971,157l-1,-19C970,121 972,108 976,99C980,90 986,85 994,85C1021,85 1053,103 1092,139l25,-44C1111,84 1098,70 1078,51C1057,32 1033,16 1004,1C975,-14 945,-21 914,-21C846,-21 812,14 812,85C812,117 816,156 823,203C830,250 841,307 854,376l15,81l12,64C895,596 906,660 914,713C921,765 925,814 925,859C925,905 921,941 912,967C903,992 888,1010 868,1021C848,1032 820,1037 784,1037C744,1037 700,1024 651,998C602,971 555,936 508,891C461,846 419,798 384,745l-99,-745l-148,0l134,1002z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
+<font-face font-family="SourceSansPro-Semibold" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="672" d="M84,0l504,0l0,660l-504,0M230,75l57,104l47,100l4,0l46,-100l56,-104M334,401l-46,94l-49,89l193,0l-48,-89l-46,-94M166,133l0,416l111,-209M505,133l-110,207l110,209z"/>
+<glyph unicode="i" horiz-adv-x="262" d="M73,0l115,0l0,491l-115,0M131,577C172,577 202,604 202,642C202,681 172,708 131,708C90,708 60,681 60,642C60,604 90,577 131,577z"/>
+<glyph unicode="l" horiz-adv-x="271" d="M185,-12C212,-12 232,-8 246,-2l-15,86C222,82 218,82 213,82C201,82 188,92 188,120l0,586l-115,0l0,-580C73,41 103,-12 185,-12z"/>
+<glyph unicode="s" horiz-adv-x="431" d="M210,-12C334,-12 401,56 401,140C401,232 327,264 260,289C207,308 158,323 158,362C158,393 181,416 230,416C269,416 304,399 338,374l53,70C351,475 296,503 228,503C118,503 49,442 49,356C49,274 122,237 187,213C239,193 292,175 292,134C292,100 267,75 214,75C164,75 122,96 78,130l-54,-74C72,17 143,-12 210,-12z"/>
+<glyph unicode="t" horiz-adv-x="361" d="M246,-12C285,-12 319,-3 346,6l-20,85C312,85 292,80 275,80C228,80 206,108 206,166l0,234l125,0l0,91l-125,0l0,134l-96,0l-14,-134l-76,-5l0,-86l70,0l0,-234C90,60 132,-12 246,-12z"/>
+</font>
+
+	<g id="backgrounds__x2B__guides" style="display:none;">
+	<rect x="-1896" y="-5" style="display:inline;fill:#FFFFFF;" width="960" height="1024"/>
+</g>
+<g id="list-b" style="display:none;">
+	<rect x="-836" y="465" style="display:inline;fill:#999999;" width="320" height="24"/>
+	
+		<text transform="matrix(1 0 0 1 -815.9995 481.3348)" style="display:inline;fill:#FFFFFF; font-family:'Merriweather-Italic'; font-size:12px;">Season 2</text>
+	<rect x="-836" y="421" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 448.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.12</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 448.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,441.435 -542,446.102 
+		-548,441.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="465" x2="-516" y2="465"/>
+	<rect x="-836" y="377" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 404.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.11</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 404.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,397.435 -542,402.102 
+		-548,397.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="421" x2="-516" y2="421"/>
+	<rect x="-836" y="333" style="display:inline;fill:#FAC4CD;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 360.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.10</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 360.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,353.435 -542,358.102 
+		-548,353.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="377" x2="-516" y2="377"/>
+	<rect x="-836" y="289" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 316.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.09</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 316.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,309.435 -542,314.102 
+		-548,309.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="333" x2="-516" y2="333"/>
+	<rect x="-836" y="245" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 272.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.08</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 272.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,265.435 -542,270.102 
+		-548,265.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="289" x2="-516" y2="289"/>
+	<rect x="-836" y="201" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 228.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.07</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 228.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,221.435 -542,226.102 
+		-548,221.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="245" x2="-516" y2="245"/>
+	<rect x="-836" y="157" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 184.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.06</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 184.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,177.435 -542,182.102 
+		-548,177.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="201" x2="-516" y2="201"/>
+	<rect x="-836" y="113" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	<g style="display:inline;">
+		<defs>
+			<rect id="SVGID_1_" x="-836" y="45" width="320" height="44"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_2_);">
+			
+				<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -836.0002 -168.2941)">
+			</image>
+		</g>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 140.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.05</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 140.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<rect x="-836" y="89" style="display:inline;fill:#999999;" width="320" height="24"/>
+	
+		<text transform="matrix(1 0 0 1 -815.9998 105.3348)" style="display:inline;fill:#FFFFFF; font-family:'Merriweather-Italic'; font-size:12px;">Season 1</text>
+	<rect x="-466.776" y="-133.404" style="display:inline;" width="280" height="44"/>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,133.435 -542,138.102 
+		-548,133.435 	"/>
+	
+		<image style="display:inline;overflow:visible;" width="760" height="222" xlink:href="../../z_links/Screen Shot 2016-02-06 at 8.01.24 PM.png"  transform="matrix(0.5 0 0 0.5 -492.6667 -166.9044)">
+	</image>
+	<rect x="-836" y="45" style="display:inline;opacity:0.6;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -815.9996 73.8127)" style="display:inline;fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:20px;">SHOW TITLE</text>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="157" x2="-516" y2="157"/>
+	<rect x="-836" y="577" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 604.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.07</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 604.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,597.435 -542,602.102 
+		-548,597.435 	"/>
+	<rect x="-836" y="533" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 560.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">02.02</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 560.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,553.435 -542,558.102 
+		-548,553.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="577" x2="-516" y2="577"/>
+	<rect x="-836" y="489" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 516.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">02.01</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 516.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;opacity:0.4;fill:none;stroke:#000000;stroke-miterlimit:10;" points="-536,509.435 -542,514.102 
+		-548,509.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="533" x2="-516" y2="533"/>
+	<path style="display:inline;opacity:0.5;fill:#FFFFFF;" d="M-542.222,60c-3.817,0-6.222,1.176-6.222,2.334v1.555
+		c0,0.714,4.666,4.666,4.666,4.666v4.666C-543.778,73.754-543,74-542.222,74c0.778,0,1.556-0.246,1.555-0.778v-4.666
+		c0,0,4.666-3.952,4.666-4.666v-1.555C-536,61.176-538.405,60-542.222,60z M-542.222,63.984c-2.793-0.001-4.774-1.037-4.774-1.424
+		c-0.002-0.385,1.982-1.424,4.774-1.422c2.792-0.002,4.775,1.037,4.774,1.422C-537.448,62.948-539.429,63.984-542.222,63.984z"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="113" x2="-516" y2="113"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="489" x2="-516" y2="489"/>
+</g>
+<g id="list-a" style="display:none;">
+	<rect x="-836" y="541" style="display:inline;fill:#999999;" width="320" height="24"/>
+	
+		<text transform="matrix(1 0 0 1 -815.9995 557.3348)" style="display:inline;fill:#FFFFFF; font-family:'Merriweather-Italic'; font-size:12px;">Season 2</text>
+	<rect x="-836" y="497" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 524.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.12</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 524.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,517.435 -542,522.102 -548,517.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="541" x2="-516" y2="541"/>
+	<rect x="-836" y="453" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 480.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.11</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 480.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,473.435 -542,478.102 -548,473.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="497" x2="-516" y2="497"/>
+	<rect x="-836" y="409" style="display:inline;fill:#FAC4CD;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 436.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.10</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 436.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,429.435 -542,434.102 -548,429.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="453" x2="-516" y2="453"/>
+	<rect x="-836" y="365" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 392.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.09</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 392.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,385.435 -542,390.102 -548,385.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="409" x2="-516" y2="409"/>
+	<rect x="-836" y="321" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 348.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.08</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 348.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,341.435 -542,346.102 -548,341.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="365" x2="-516" y2="365"/>
+	<rect x="-836" y="277" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 304.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.07</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 304.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,297.435 -542,302.102 -548,297.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="321" x2="-516" y2="321"/>
+	<rect x="-836" y="233" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 260.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.06</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 260.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,253.435 -542,258.102 -548,253.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="277" x2="-516" y2="277"/>
+	<rect x="-836" y="189" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	<g style="display:inline;">
+		<defs>
+			<rect id="SVGID_3_" x="-836" y="45" width="320" height="120"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_4_);">
+			
+				<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -836.0002 -130.2941)">
+			</image>
+		</g>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 216.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.05</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 216.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<rect x="-836" y="165" style="display:inline;fill:#999999;" width="320" height="24"/>
+	
+		<text transform="matrix(1 0 0 1 -815.9998 181.3348)" style="display:inline;fill:#FFFFFF; font-family:'Merriweather-Italic'; font-size:12px;">Season 1</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,209.435 -542,214.102 -548,209.435 
+			"/>
+	<rect x="-836" y="45" style="display:inline;opacity:0.6;" width="320" height="120"/>
+	
+		<text transform="matrix(1 0 0 1 -815.9996 80.8123)" style="display:inline;fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+	
+		<text transform="matrix(1 0 0 1 -815.9996 101.9998)" style="display:inline;opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="233" x2="-516" y2="233"/>
+	<rect x="-836" y="653" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 680.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.07</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 680.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,673.435 -542,678.102 -548,673.435 
+			"/>
+	<rect x="-836" y="609" style="display:inline;fill:#F9FAC4;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 636.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">02.02</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 636.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,629.435 -542,634.102 -548,629.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="653" x2="-516" y2="653"/>
+	<rect x="-836" y="565" style="display:inline;fill:#C4FAC5;" width="320" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -816.0002 592.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">02.01</text>
+	
+		<text transform="matrix(1 0 0 1 -772.3449 592.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-536,585.435 -542,590.102 -548,585.435 
+			"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="609" x2="-516" y2="609"/>
+	<path style="display:inline;opacity:0.5;fill:#FFFFFF;" d="M-565,119.269c-3.817,0-6.222,1.176-6.222,2.334v1.555
+		c0,0.714,4.666,4.666,4.666,4.666v4.666c-0.001,0.532,0.778,0.778,1.555,0.778s1.556-0.246,1.555-0.778v-4.666
+		c0,0,4.666-3.952,4.666-4.666v-1.555C-558.778,120.444-561.183,119.269-565,119.269z M-565,123.253
+		c-2.793-0.001-4.774-1.037-4.774-1.424c-0.002-0.385,1.982-1.424,4.774-1.422c2.792-0.002,4.775,1.037,4.774,1.422
+		C-560.226,122.216-562.207,123.252-565,123.253z"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="189" x2="-516" y2="189"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-836" y1="565" x2="-516" y2="565"/>
+	<rect x="-1800" y="601" style="display:inline;fill:#999999;" width="768" height="24"/>
+	
+		<text transform="matrix(1 0 0 1 -1735.9993 617.3348)" style="display:inline;fill:#FFFFFF; font-family:'Merriweather-Italic'; font-size:12px;">Season 2</text>
+	<rect x="-1800" y="557" style="display:inline;fill:#C4FAC5;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 584.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.12</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 584.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,577.435 -1102,582.102 
+		-1108,577.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="601" x2="-1032" y2="601"/>
+	<rect x="-1800" y="513" style="display:inline;fill:#C4FAC5;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 540.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.11</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 540.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,533.435 -1102,538.102 
+		-1108,533.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="557" x2="-1032" y2="557"/>
+	<rect x="-1800" y="469" style="display:inline;fill:#FAC4CD;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 496.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.10</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 496.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,489.435 -1102,494.102 
+		-1108,489.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="513" x2="-1032" y2="513"/>
+	<rect x="-1800" y="425" style="display:inline;fill:#F9FAC4;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 452.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.09</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 452.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,445.435 -1102,450.102 
+		-1108,445.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="469" x2="-1032" y2="469"/>
+	<rect x="-1800" y="381" style="display:inline;fill:#C4FAC5;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 408.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.08</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 408.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,401.435 -1102,406.102 
+		-1108,401.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="425" x2="-1032" y2="425"/>
+	<rect x="-1800" y="337" style="display:inline;fill:#F9FAC4;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 364.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.07</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 364.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,357.435 -1102,362.102 
+		-1108,357.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="381" x2="-1032" y2="381"/>
+	<rect x="-1800" y="293" style="display:inline;fill:#F9FAC4;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 320.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.06</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 320.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,313.435 -1102,318.102 
+		-1108,313.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="337" x2="-1032" y2="337"/>
+	<rect x="-1800" y="249" style="display:inline;fill:#C4FAC5;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 276.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.05</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 276.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<rect x="-1800" y="225" style="display:inline;fill:#999999;" width="768" height="24"/>
+	
+		<text transform="matrix(1 0 0 1 -1735.9996 241.3348)" style="display:inline;fill:#FFFFFF; font-family:'Merriweather-Italic'; font-size:12px;">Season 1</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,269.435 -1102,274.102 
+		-1108,269.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="293" x2="-1032" y2="293"/>
+	<rect x="-1800" y="713" style="display:inline;fill:#F9FAC4;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 740.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.07</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 740.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,733.435 -1102,738.102 
+		-1108,733.435 	"/>
+	<rect x="-1800" y="669" style="display:inline;fill:#F9FAC4;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 696.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">02.02</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 696.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,689.435 -1102,694.102 
+		-1108,689.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="713" x2="-1032" y2="713"/>
+	<rect x="-1800" y="625" style="display:inline;fill:#C4FAC5;" width="768" height="44"/>
+	
+		<text transform="matrix(1 0 0 1 -1736.0001 652.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">02.01</text>
+	
+		<text transform="matrix(1 0 0 1 -1237.021 584.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Feb 6, 2013</text>
+	
+		<text transform="matrix(1 0 0 1 -1244.5093 540.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Jan 30, 2013</text>
+	
+		<text transform="matrix(1 0 0 1 -1244.5093 496.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Jan 23, 2013</text>
+	
+		<text transform="matrix(1 0 0 1 -1244.5093 452.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Jan 16, 2013</text>
+	
+		<text transform="matrix(1 0 0 1 -1236.8452 408.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Jan 9, 2013</text>
+	
+		<text transform="matrix(1 0 0 1 -1236.8452 364.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Jan 2, 2013</text>
+	
+		<text transform="matrix(1 0 0 1 -1245.1968 320.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Dec 25, 2012</text>
+	
+		<text transform="matrix(1 0 0 1 -1245.1968 276.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Dec 19, 2012</text>
+	
+		<text transform="matrix(1 0 0 1 -1245.1968 740.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Dec 19, 2012</text>
+	
+		<text transform="matrix(1 0 0 1 -1245.1968 696.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Dec 19, 2012</text>
+	
+		<text transform="matrix(1 0 0 1 -1245.1968 652.3348)" style="display:inline;opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Dec 19, 2012</text>
+	
+		<text transform="matrix(1 0 0 1 -1692.3447 652.3348)" style="display:inline;opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+	<polyline style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-1096,645.435 -1102,650.102 
+		-1108,645.435 	"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="669" x2="-1032" y2="669"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="249" x2="-1032" y2="249"/>
+	<line style="display:inline;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1800" y1="625" x2="-1032" y2="625"/>
+	<circle style="display:inline;fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-800.999" cy="126.269" r="15"/>
+	<text transform="matrix(1 0 0 1 -809.851 131.2683)" style="display:inline; font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+	<circle style="display:inline;fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-761" cy="126.269" r="15"/>
+	
+		<text transform="matrix(1 0 0 1 -770.5076 131.2683)" style="display:inline;fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+	<circle style="display:inline;fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-721" cy="126.269" r="15"/>
+	
+		<text transform="matrix(1 0 0 1 -729.4725 131.2683)" style="display:inline;fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+	<circle style="display:inline;fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-681" cy="126.269" r="15"/>
+	
+		<text transform="matrix(1 0 0 1 -689.5779 131.2683)" style="display:inline;fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+	
+		<text transform="matrix(1 0 0 1 -655.8081 131.2683)" style="display:inline;opacity:0.5;fill:#FFFFFF; font-family:'Merriweather-LightItalic'; font-size:12px;">Filter Episodes</text>
+	<g style="display:inline;">
+		<defs>
+			<rect id="SVGID_5_" x="-1800" y="45" width="768" height="180"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_6_);">
+			
+				<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(1.1294 0 0 1.1294 -1800 -429.7059)">
+			</image>
+		</g>
+	</g>
+	<rect x="-1800" y="45" style="display:inline;opacity:0.6;" width="768" height="180"/>
+	
+		<text transform="matrix(1 0 0 1 -1736 100.4794)" style="display:inline;fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+	
+		<text transform="matrix(1 0 0 1 -1736 121.6669)" style="display:inline;opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">2012 - Present   &#xB7;   3 Seasons</text>
+	<circle style="display:inline;fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1721" cy="164.5" r="15"/>
+	
+		<text transform="matrix(1 0 0 1 -1729.8516 169.5002)" style="display:inline; font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+	<circle style="display:inline;fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1648.667" cy="164.5" r="15"/>
+	
+		<text transform="matrix(1 0 0 1 -1658.1744 169.5002)" style="display:inline;fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+	<circle style="display:inline;fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1538.667" cy="164.5" r="15"/>
+	
+		<text transform="matrix(1 0 0 1 -1547.1393 169.5002)" style="display:inline;fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+	<circle style="display:inline;fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1443.667" cy="164.5" r="15"/>
+	
+		<text transform="matrix(1 0 0 1 -1452.2448 169.5002)" style="display:inline;fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+	
+		<text transform="matrix(1 0 0 1 -1736.3374 140.9355)" style="display:inline;opacity:0.5;fill:#FFFFFF; font-family:'Merriweather-LightItalic'; font-size:12px;">Episodes</text>
+	
+		<text transform="matrix(1 0 0 1 -1625.6667 169.5002)" style="display:inline;fill:#C4FAC5; font-family:'Merriweather-LightItalic'; font-size:12px;">Required</text>
+	
+		<text transform="matrix(1 0 0 1 -1698.0002 169.5002)" style="display:inline;fill:#FFFFFF; font-family:'Merriweather-LightItalic'; font-size:12px;">All</text>
+	
+		<text transform="matrix(1 0 0 1 -1515.6671 169.5002)" style="display:inline;fill:#F9FAC4; font-family:'Merriweather-LightItalic'; font-size:12px;">Maybe</text>
+	
+		<text transform="matrix(1 0 0 1 -1420.6665 169.5002)" style="display:inline;fill:#FAC4CD; font-family:'Merriweather-LightItalic'; font-size:12px;">Filler</text>
+	<g style="display:inline;">
+		<rect x="-437" y="233.384" style="fill:#C4FAC5;" width="320" height="244.333"/>
+		<rect x="-437" y="233.384" style="fill:#C4FAC5;" width="320" height="44"/>
+		<text transform="matrix(1 0 0 1 -417.0002 260.7191)" style="opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.05</text>
+		
+			<text transform="matrix(1 0 0 1 -373.3449 260.7191)" style="opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+		<polyline style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-149,257.486 -143,252.82 -137,257.486 		"/>
+		
+			<text transform="matrix(1 0 0 1 -417.0004 299.3845)" style="opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:12px;">Synopsis</text>
+		
+			<text transform="matrix(1 0 0 1 -417.0004 421.3845)" style="opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:12px;">Air Date</text>
+		<g>
+			<rect x="-417" y="310.09" style="fill:none;" width="280" height="85.043"/>
+			<text transform="matrix(1 0 0 1 -417.0002 320.1562)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Light'; font-size:14px;">Mack and his team invade the Hydra castle in the </tspan><tspan x="0" y="18" style="font-family:'SourceSansPro-Light'; font-size:14px;">hopes of bringing Fitz and Coulson back through </tspan><tspan x="0" y="36" style="font-family:'SourceSansPro-Light'; font-size:14px;">the portal. Meanwhile, on the alien world Grant&apos;s </tspan><tspan x="0" y="54" style="font-family:'SourceSansPro-Light'; font-size:14px;">team find Will and Fitz convinces him to lead </tspan><tspan x="0" y="72" style="font-family:'SourceSansPro-Light'; font-size:14px;">them to the extraction point.</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 -354.716 421.3845)" style="font-family:'SourceSansPro-Light'; font-size:14px;">June 12th, 2016</text>
+		</g>
+		
+			<text transform="matrix(1 0 0 1 -417.0004 449.0511)" style="opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:12px;">Episode Status</text>
+		<g>
+			<text transform="matrix(1 0 0 1 -320.2583 449.0511)" style="font-family:'SourceSansPro-Light'; font-size:14px;">Must Watch</text>
+		</g>
+	</g>
+	<g style="display:inline;">
+		<rect x="-2717.954" y="381" style="fill:#C4FAC5;" width="768" height="195.767"/>
+		<text transform="matrix(1 0 0 1 -2653.9541 408.3348)" style="opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">01.08</text>
+		
+			<text transform="matrix(1 0 0 1 -2610.2988 408.3348)" style="opacity:0.8; font-family:'SourceSansPro-Regular'; font-size:16px;">This Is A Long Episode Title</text>
+		<text transform="matrix(1 0 0 1 -2154.7993 408.3348)" style="opacity:0.4; font-family:'SourceSansPro-Light'; font-size:16px;">Aired Jan 9, 2013</text>
+		<polyline style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="-2025.954,405.102 -2019.954,400.435 
+			-2013.954,405.102 		"/>
+		
+			<text transform="matrix(1 0 0 1 -2653.9541 447.0002)" style="opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:12px;">Synopsis</text>
+		
+			<text transform="matrix(1 0 0 1 -2653.9541 518.3479)" style="opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:12px;">Air Date</text>
+		<g>
+			<rect x="-2653.954" y="457.706" style="fill:none;" width="640" height="31.923"/>
+			<text transform="matrix(1 0 0 1 -2653.9539 467.772)"><tspan x="0" y="0" style="font-family:'SourceSansPro-Light'; font-size:14px;">Mack and his team invade the Hydra castle in the hopes of bringing Fitz and Coulson back through the portal. </tspan><tspan x="0" y="18" style="font-family:'SourceSansPro-Light'; font-size:14px;">Meanwhile, on the alien world Grant&apos;s team find Will and Fitz convinces him to lead them to the extraction point.</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 -2591.6699 518.3478)" style="font-family:'SourceSansPro-Light'; font-size:14px;">June 12th, 2016</text>
+		</g>
+		
+			<text transform="matrix(1 0 0 1 -2653.9541 546.0145)" style="opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:12px;">Episode Status</text>
+		<g>
+			<text transform="matrix(1 0 0 1 -2557.2119 546.0145)" style="font-family:'SourceSansPro-Light'; font-size:14px;">Must Watch</text>
+		</g>
+	</g>
+	<g style="display:inline;">
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1106" y1="233" x2="-1098" y2="241"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1098" y1="233" x2="-1106" y2="241"/>
+	</g>
+	<g style="display:inline;">
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1106" y1="609" x2="-1098" y2="617"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1098" y1="609" x2="-1106" y2="617"/>
+	</g>
+	<g style="display:inline;">
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-546" y1="549" x2="-538" y2="557"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-538" y1="549" x2="-546" y2="557"/>
+	</g>
+	<g style="display:inline;">
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-546" y1="173" x2="-538" y2="181"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-538" y1="173" x2="-546" y2="181"/>
+	</g>
+	<rect x="-1736" y="-71.881" style="display:inline;fill:#FAC4CD;" width="640" height="26.999"/>
+</g>
+<g id="search" style="display:none;">
+</g>
+<g id="home" style="display:none;">
+	<g style="display:inline;">
+		<defs>
+			<rect id="SVGID_7_" x="-836" y="45" width="320" height="120"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_8_);">
+			
+				<image style="overflow:visible;" width="1920" height="1080" xlink:href="../../z_links/42123.jpg"  transform="matrix(0.1728 0 0 0.1728 -841.8951 41.7609)">
+			</image>
+		</g>
+	</g>
+	<rect x="-836" y="45" style="display:inline;opacity:0.5;" width="320" height="120"/>
+	<g style="display:inline;">
+		<defs>
+			<rect id="SVGID_9_" x="-1896" y="45" width="960" height="160"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_10_);">
+			
+				<image style="overflow:visible;" width="1920" height="1080" xlink:href="../../z_links/42123.jpg"  transform="matrix(0.5 0 0 0.5 -1895.9993 11.9982)">
+			</image>
+		</g>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_11_" x="-1736" y="540.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_12_">
+				<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_12_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -1736 364.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-1736" y="540.251" style="opacity:0.6;" width="320" height="120"/>
+		<text transform="matrix(1 0 0 1 -1715.9995 576.0634)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -1715.9995 597.2509)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1700.999" cy="621.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -1709.8508 626.5194)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1661" cy="621.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1670.5074 626.5194)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1621" cy="621.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1629.4723 626.5194)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1581" cy="621.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1589.5778 626.5194)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-1736" y="540.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_13_" x="-836" y="481.02" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_14_">
+				<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_14_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -835.9995 305.7256)">
+				</image>
+			</g>
+		</g>
+		<rect x="-835.999" y="481.02" style="opacity:0.6;" width="320" height="120"/>
+		<text transform="matrix(1 0 0 1 -815.999 516.832)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -815.999 538.0195)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-800.999" cy="562.288" r="15"/>
+		<text transform="matrix(1 0 0 1 -809.8503 567.288)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-760.999" cy="562.288" r="15"/>
+		<text transform="matrix(1 0 0 1 -770.507 567.288)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-720.999" cy="562.288" r="15"/>
+		<text transform="matrix(1 0 0 1 -729.4718 567.288)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-680.999" cy="562.288" r="15"/>
+		<text transform="matrix(1 0 0 1 -689.5773 567.288)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-835.999" y="481.02" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_15_" x="-836" y="600.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_16_">
+				<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_16_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -835.9995 424.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-835.999" y="600.251" style="opacity:0.6;" width="320" height="120"/>
+		<text transform="matrix(1 0 0 1 -815.999 636.0634)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -815.999 657.2509)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-800.999" cy="681.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -809.8503 686.5194)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-760.999" cy="681.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -770.507 686.5194)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-720.999" cy="681.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -729.4718 686.5194)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-680.999" cy="681.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -689.5773 686.5194)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-835.999" y="600.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_17_" x="-1416" y="540.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_18_">
+				<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_18_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -1416 364.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-1416" y="540.251" style="opacity:0.6;" width="320" height="120"/>
+		<text transform="matrix(1 0 0 1 -1395.9995 576.0634)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -1395.9995 597.2509)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1380.999" cy="621.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -1389.8508 626.5194)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1341" cy="621.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1350.5074 626.5194)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1301" cy="621.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1309.4723 626.5194)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1261" cy="621.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1269.5778 626.5194)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-1416" y="540.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_19_" x="-1736" y="660.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_20_">
+				<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_20_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -1736 484.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-1736" y="660.251" style="opacity:0.6;" width="320" height="120"/>
+		<text transform="matrix(1 0 0 1 -1715.9995 696.0634)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -1715.9995 717.2507)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1700.999" cy="741.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -1709.8508 746.5193)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1661" cy="741.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1670.5074 746.5193)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1621" cy="741.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1629.4723 746.5193)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1581" cy="741.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1589.5778 746.5193)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-1736" y="660.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_21_" x="-1416" y="660.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_22_">
+				<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_22_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -1416 484.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-1416" y="660.251" style="opacity:0.6;" width="320" height="120"/>
+		<text transform="matrix(1 0 0 1 -1395.9995 696.0634)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -1395.9995 717.2507)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1380.999" cy="741.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -1389.8508 746.5193)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1341" cy="741.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1350.5074 746.5193)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1301" cy="741.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1309.4723 746.5193)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1261" cy="741.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1269.5778 746.5193)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-1416" y="660.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<rect x="-1896" y="45" style="display:inline;opacity:0.5;" width="960" height="160"/>
+	
+		<text transform="matrix(1 0 0 1 -1735.9996 520.251)" style="display:inline; font-family:'SourceSansPro-Light'; font-size:24px;">Newest Binge Lists</text>
+	
+		<text transform="matrix(1 0 0 1 -1612.6852 125)" style="display:inline;fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:32px;">Binge watch more concisely</text>
+	<g style="display:inline;">
+		
+			<text transform="matrix(1 0 0 1 -1648.9059 150.9977)" style="fill:#FFFFFF; font-family:'Merriweather-LightItalic'; font-size:18px;">Catching up in your favorite shows has never been easier</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -763.1025 99.0022)" style="display:inline;"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:32px;">Binge watch</tspan><tspan x="-19.152" y="30" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:32px;">more concisely</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 -1170.84 520.251)" style="display:inline;opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:14px;">See more &#xBB;</text>
+	<rect x="-1563.762" y="261" style="fill:#FF00FF;" width="89.523" height="20"/>
+	<rect x="-1612.139" y="225" style="fill:#FF00FF;" width="137.901" height="20"/>
+	<rect x="-1612.139" y="205" style="fill:#FF00FF;" width="137.901" height="20"/>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_23_" x="-1736" y="856.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_24_">
+				<use xlink:href="#SVGID_23_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_24_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -1736 680.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-1736" y="856.251" style="opacity:0.6;" width="320" height="120"/>
+		<text transform="matrix(1 0 0 1 -1715.9995 892.0633)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -1715.9995 913.2508)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1700.999" cy="937.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -1709.8508 942.5193)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1661" cy="937.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1670.5074 942.5193)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1621" cy="937.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1629.4723 942.5193)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1581" cy="937.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1589.5778 942.5193)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-1736" y="856.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_25_" x="-1416" y="856.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_26_">
+				<use xlink:href="#SVGID_25_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_26_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -1416 680.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-1416" y="856.251" style="opacity:0.6;" width="320" height="120"/>
+		<text transform="matrix(1 0 0 1 -1395.9995 892.0633)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -1395.9995 913.2508)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1380.999" cy="937.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -1389.8508 942.5193)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1341" cy="937.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1350.5074 942.5193)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1301" cy="937.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1309.4723 942.5193)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1261" cy="937.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1269.5778 942.5193)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-1416" y="856.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_27_" x="-1736" y="976.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_28_">
+				<use xlink:href="#SVGID_27_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_28_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -1736 800.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-1736" y="976.251" style="opacity:0.6;" width="320" height="120"/>
+		
+			<text transform="matrix(1 0 0 1 -1715.9995 1012.0632)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -1715.9995 1033.2507)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1700.999" cy="1057.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -1709.8508 1062.5193)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1661" cy="1057.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1670.5074 1062.5193)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1621" cy="1057.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1629.4723 1062.5193)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1581" cy="1057.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1589.5778 1062.5193)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-1736" y="976.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	<g style="display:inline;">
+		<g>
+			<defs>
+				<rect id="SVGID_29_" x="-1416" y="976.251" width="320" height="120"/>
+			</defs>
+			<clipPath id="SVGID_30_">
+				<use xlink:href="#SVGID_29_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_30_);">
+				
+					<image style="overflow:visible;" width="680" height="1000" xlink:href="../../z_links/320.jpg"  transform="matrix(0.4706 0 0 0.4706 -1416 800.9569)">
+				</image>
+			</g>
+		</g>
+		<rect x="-1416" y="976.251" style="opacity:0.6;" width="320" height="120"/>
+		
+			<text transform="matrix(1 0 0 1 -1395.9995 1012.0632)" style="fill:#FFFFFF; font-family:'SourceSansPro-Bold'; font-size:24px;">SHOW TITLE</text>
+		
+			<text transform="matrix(1 0 0 1 -1395.9995 1033.2507)" style="opacity:0.8;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:18px;">3 Seasons</text>
+		<circle style="fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;" cx="-1380.999" cy="1057.52" r="15"/>
+		<text transform="matrix(1 0 0 1 -1389.8508 1062.5193)" style="font-family:'Merriweather-Italic'; font-size:16px;">72</text>
+		<circle style="fill:none;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1341" cy="1057.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1350.5074 1062.5193)" style="fill:#C4FAC5; font-family:'Merriweather-Italic'; font-size:16px;">48</text>
+		<circle style="fill:none;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1301" cy="1057.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1309.4723 1062.5193)" style="fill:#F9FAC4; font-family:'Merriweather-Italic'; font-size:16px;">14</text>
+		<circle style="fill:none;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1261" cy="1057.52" r="15"/>
+		
+			<text transform="matrix(1 0 0 1 -1269.5778 1062.5193)" style="fill:#FAC4CD; font-family:'Merriweather-Italic'; font-size:16px;">10</text>
+		<rect x="-1416" y="976.251" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" width="320" height="120"/>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 -1735.9996 836.251)" style="display:inline; font-family:'SourceSansPro-Light'; font-size:24px;">Popular Binge Lists</text>
+	
+		<text transform="matrix(1 0 0 1 -1170.84 836.251)" style="display:inline;opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:14px;">See more &#xBB;</text>
+	<rect x="-1563.762" y="577" style="fill:#FF00FF;" width="89.523" height="20"/>
+	<rect x="-1612.139" y="541" style="fill:#FF00FF;" width="137.901" height="20"/>
+	<rect x="-1612.139" y="521" style="fill:#FF00FF;" width="137.901" height="20"/>
+	<rect x="-1446" y="246.104" style="display:inline;fill:none;" width="320" height="214.896"/>
+	<text transform="matrix(1 0 0 1 -1445.9995 260.4832)" style="display:inline;"><tspan x="0" y="0" style="font-family:'SourceSansPro-Light'; font-size:20px;">So you want to dive into a new show, </tspan><tspan x="0" y="28" style="font-family:'SourceSansPro-Light'; font-size:20px;">but are daunted by the dozens of hours </tspan><tspan x="0" y="56" style="font-family:'SourceSansPro-Light'; font-size:20px;">it would take to catch up. Thankfully, </tspan><tspan x="0" y="84" style="font-family:'SourceSansPro-Light'; font-size:20px;">we&#x2019;ve got you covered. Each of our </tspan><tspan x="0" y="112" style="font-family:'SourceSansPro-Light'; font-size:20px;">hand-crafted Binge Lists distill down an </tspan><tspan x="0" y="140" style="font-family:'SourceSansPro-Light'; font-size:20px;">entire show&#x2019;s episode list to ones that </tspan><tspan x="0" y="168" style="font-family:'SourceSansPro-Light'; font-size:20px;">are critical to the main plot, allowing </tspan><tspan x="0" y="196" style="font-family:'SourceSansPro-Light'; font-size:20px;">you to skip filler episodes.</tspan></text>
+	<rect x="-816" y="192.781" style="display:inline;fill:none;" width="280" height="260.168"/>
+	<text transform="matrix(1 0 0 1 -815.9999 204.2849)" style="display:inline;"><tspan x="0" y="0" style="font-family:'SourceSansPro-Light'; font-size:16px;">So you want to dive </tspan><tspan x="0" y="24" style="font-family:'SourceSansPro-Light'; font-size:16px;">into a new show, but </tspan><tspan x="0" y="48" style="font-family:'SourceSansPro-Light'; font-size:16px;">are daunted by the </tspan><tspan x="0" y="72" style="font-family:'SourceSansPro-Light'; font-size:16px;">dozens of hours it </tspan><tspan x="0" y="96" style="font-family:'SourceSansPro-Light'; font-size:16px;">would take to catch </tspan><tspan x="0" y="120" style="font-family:'SourceSansPro-Light'; font-size:16px;">up. Thankfully, we&#x2019;ve got you covered. </tspan><tspan x="0" y="144" style="font-family:'SourceSansPro-Light'; font-size:16px;">Each of our hand-crafted Binge Lists distill </tspan><tspan x="0" y="168" style="font-family:'SourceSansPro-Light'; font-size:16px;">down an entire show&#x2019;s episode list to ones </tspan><tspan x="0" y="192" style="font-family:'SourceSansPro-Light'; font-size:16px;">that are critical to the main plot, allowing </tspan><tspan x="0" y="216" style="font-family:'SourceSansPro-Light'; font-size:16px;">you to skip filler episodes.</tspan></text>
+	<g style="display:inline;">
+		<rect x="-1700.999" y="275" style="fill:#C4FAC5;stroke:#FFFFFF;stroke-miterlimit:10;" width="219.999" height="26"/>
+		<rect x="-1700.999" y="301" style="fill:#C4FAC5;stroke:#FFFFFF;stroke-miterlimit:10;" width="219.999" height="26"/>
+		<rect x="-1700.999" y="327" style="fill:#C4FAC5;stroke:#FFFFFF;stroke-miterlimit:10;" width="219.999" height="26"/>
+		<rect x="-1700.999" y="353" style="fill:#F9FAC4;stroke:#FFFFFF;stroke-miterlimit:10;" width="219.999" height="26"/>
+		<rect x="-1700.999" y="379" style="fill:#FAC4CD;stroke:#FFFFFF;stroke-miterlimit:10;" width="219.999" height="26"/>
+		<rect x="-1700.999" y="405" style="fill:#FAC4CD;stroke:#FFFFFF;stroke-miterlimit:10;" width="219.999" height="26"/>
+		<rect x="-1700.999" y="431" style="fill:#C4FAC5;stroke:#FFFFFF;stroke-miterlimit:10;" width="219.999" height="26"/>
+		<circle style="fill:#E6E6E6;stroke:#E6E6E6;stroke-miterlimit:10;" cx="-1688.999" cy="255.104" r="12"/>
+		<circle style="fill:#C4FAC5;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-1654.999" cy="255.104" r="12"/>
+		<circle style="fill:#F9FAC4;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-1620.999" cy="255.104" r="12"/>
+		<circle style="fill:#FAC4CD;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-1586.999" cy="255.104" r="12"/>
+		<rect x="-1692.999" y="282" style="opacity:0.1;" width="128.804" height="12"/>
+		<rect x="-1692.999" y="308" style="opacity:0.1;" width="149.995" height="12"/>
+		<rect x="-1692.999" y="334" style="opacity:0.1;" width="100" height="12"/>
+		<rect x="-1692.999" y="360" style="opacity:0.1;" width="118" height="12"/>
+		<rect x="-1692.999" y="386" style="opacity:0.1;" width="89.175" height="12"/>
+		<rect x="-1692.999" y="412" style="opacity:0.1;" width="110.7" height="12"/>
+		<rect x="-1692.999" y="438" style="opacity:0.1;" width="132.081" height="12"/>
+		<path style="opacity:0.1;" d="M-1496.681,294.999c-0.435,0-0.847-0.203-1.111-0.553l-3.573-4.721
+			c-0.465-0.613-0.344-1.486,0.27-1.951c0.615-0.467,1.488-0.344,1.953,0.27l2.351,3.104l5.911-9.492
+			c0.407-0.652,1.267-0.852,1.921-0.445c0.653,0.406,0.854,1.266,0.446,1.92l-6.984,11.21c-0.242,0.391-0.661,0.635-1.12,0.656
+			C-1496.639,294.999-1496.659,294.999-1496.681,294.999z"/>
+		<path style="opacity:0.1;" d="M-1656.705,261.999c-0.435,0-0.847-0.203-1.111-0.553l-3.573-4.721
+			c-0.465-0.613-0.344-1.486,0.27-1.951c0.615-0.467,1.488-0.344,1.953,0.27l2.351,3.104l5.911-9.492
+			c0.407-0.652,1.267-0.852,1.921-0.445c0.653,0.406,0.854,1.266,0.446,1.92l-6.984,11.21c-0.242,0.391-0.661,0.635-1.12,0.656
+			C-1656.663,261.999-1656.683,261.999-1656.705,261.999z"/>
+		<path style="opacity:0.1;" d="M-1496.681,320.999c-0.435,0-0.847-0.203-1.111-0.553l-3.573-4.721
+			c-0.465-0.613-0.344-1.486,0.27-1.951c0.615-0.467,1.488-0.344,1.953,0.27l2.351,3.104l5.911-9.492
+			c0.407-0.652,1.267-0.852,1.921-0.445c0.653,0.406,0.854,1.266,0.446,1.92l-6.984,11.21c-0.242,0.391-0.661,0.635-1.12,0.656
+			C-1496.639,320.999-1496.659,320.999-1496.681,320.999z"/>
+		<path style="opacity:0.1;" d="M-1496.681,346.999c-0.435,0-0.847-0.203-1.111-0.553l-3.573-4.721
+			c-0.465-0.613-0.344-1.486,0.27-1.951c0.615-0.467,1.488-0.344,1.953,0.27l2.351,3.104l5.911-9.492
+			c0.407-0.652,1.267-0.852,1.921-0.445c0.653,0.406,0.854,1.266,0.446,1.92l-6.984,11.21c-0.242,0.391-0.661,0.635-1.12,0.656
+			C-1496.639,346.999-1496.659,346.999-1496.681,346.999z"/>
+		<path style="opacity:0.1;" d="M-1496.681,450.999c-0.435,0-0.847-0.203-1.111-0.553l-3.573-4.721
+			c-0.465-0.613-0.344-1.486,0.27-1.951c0.615-0.467,1.488-0.344,1.953,0.27l2.351,3.104l5.911-9.492
+			c0.407-0.652,1.267-0.852,1.921-0.445c0.653,0.406,0.854,1.266,0.446,1.92l-6.984,11.21c-0.242,0.391-0.661,0.635-1.12,0.656
+			C-1496.639,450.999-1496.659,450.999-1496.681,450.999z"/>
+		<g style="opacity:0.1;">
+			<path d="M-1491.34,359.096c-1.013-0.731-2.286-1.096-3.819-1.096c-1.165,0-2.149,0.257-2.949,0.772
+				c-1.268,0.805-1.942,2.173-2.024,4.102h2.94c0-0.563,0.164-1.102,0.492-1.625c0.328-0.521,0.885-0.781,1.669-0.781
+				c0.798,0,1.349,0.212,1.648,0.634c0.301,0.424,0.452,0.892,0.452,1.406c0,0.448-0.224,0.858-0.495,1.229
+				c-0.148,0.217-0.344,0.417-0.588,0.599c0,0-1.594,1.022-2.293,1.844c-0.405,0.476-0.442,1.189-0.478,2.212
+				c-0.002,0.073,0.026,0.224,0.28,0.224c0.255,0,2.059,0,2.285,0c0.228,0,0.275-0.168,0.277-0.244
+				c0.016-0.372,0.057-0.563,0.125-0.778c0.128-0.406,0.478-0.76,0.87-1.066l0.809-0.557c0.731-0.57,1.313-1.036,1.571-1.403
+				c0.439-0.601,0.749-1.342,0.749-2.222C-1489.82,360.91-1490.326,359.829-1491.34,359.096z M-1495.206,370.377
+				c-1.012-0.031-1.848,0.67-1.88,1.769c-0.031,1.097,0.763,1.823,1.776,1.853c1.057,0.031,1.87-0.646,1.903-1.745
+				C-1493.376,371.155-1494.148,370.409-1495.206,370.377z"/>
+		</g>
+		<g style="opacity:0.1;">
+			<path d="M-1617.364,248.2c-1.013-0.731-2.286-1.096-3.819-1.096c-1.165,0-2.149,0.257-2.949,0.772
+				c-1.268,0.805-1.942,2.173-2.024,4.102h2.94c0-0.563,0.164-1.102,0.492-1.625c0.328-0.521,0.885-0.781,1.669-0.781
+				c0.798,0,1.349,0.212,1.648,0.634c0.301,0.424,0.452,0.892,0.452,1.406c0,0.448-0.224,0.858-0.495,1.229
+				c-0.148,0.217-0.344,0.417-0.588,0.599c0,0-1.594,1.022-2.293,1.844c-0.405,0.476-0.442,1.189-0.478,2.212
+				c-0.002,0.073,0.026,0.224,0.28,0.224c0.255,0,2.059,0,2.285,0c0.228,0,0.275-0.168,0.277-0.244
+				c0.016-0.372,0.057-0.563,0.125-0.778c0.128-0.406,0.478-0.76,0.87-1.066l0.809-0.557c0.731-0.57,1.313-1.036,1.571-1.403
+				c0.439-0.601,0.749-1.342,0.749-2.222C-1615.844,250.014-1616.351,248.932-1617.364,248.2z M-1621.23,259.481
+				c-1.012-0.031-1.848,0.67-1.88,1.769c-0.031,1.097,0.763,1.823,1.776,1.853c1.057,0.031,1.87-0.646,1.903-1.745
+				C-1619.401,260.259-1620.172,259.512-1621.23,259.481z"/>
+		</g>
+		<path style="opacity:0.1;" d="M-1490.626,396.849c-0.469,0.469-1.229,0.469-1.697,0l-2.651-3.03l-2.651,3.029
+			c-0.469,0.469-1.229,0.469-1.697,0c-0.469-0.469-0.469-1.229,0-1.697l2.758-3.15l-2.759-3.152c-0.469-0.469-0.469-1.228,0-1.697
+			c0.469-0.469,1.228-0.469,1.697,0l2.652,3.031l2.651-3.031c0.469-0.469,1.228-0.469,1.697,0c0.469,0.469,0.469,1.229,0,1.697
+			l-2.758,3.152l2.758,3.15C-1490.157,395.62-1490.157,396.379-1490.626,396.849z"/>
+		<path style="opacity:0.1;" d="M-1582.651,259.952c-0.469,0.469-1.229,0.469-1.697,0l-2.651-3.03l-2.651,3.029
+			c-0.469,0.469-1.229,0.469-1.697,0c-0.469-0.469-0.469-1.229,0-1.697l2.758-3.15l-2.759-3.152c-0.469-0.469-0.469-1.228,0-1.697
+			c0.469-0.469,1.228-0.469,1.697,0l2.652,3.031l2.651-3.031c0.469-0.469,1.228-0.469,1.697,0c0.469,0.469,0.469,1.229,0,1.697
+			l-2.758,3.152l2.758,3.15C-1582.182,258.723-1582.182,259.483-1582.651,259.952z"/>
+		<path style="opacity:0.1;" d="M-1490.626,422.849c-0.469,0.469-1.229,0.469-1.697,0l-2.651-3.03l-2.651,3.029
+			c-0.469,0.469-1.229,0.469-1.697,0c-0.469-0.469-0.469-1.229,0-1.697l2.758-3.15l-2.759-3.152c-0.469-0.469-0.469-1.228,0-1.697
+			c0.469-0.469,1.228-0.469,1.697,0l2.652,3.031l2.651-3.031c0.469-0.469,1.228-0.469,1.697,0c0.469,0.469,0.469,1.229,0,1.697
+			l-2.758,3.152l2.758,3.15C-1490.157,421.62-1490.157,422.379-1490.626,422.849z"/>
+	</g>
+	<g style="display:inline;">
+		<rect x="-662" y="202.052" style="fill:#C4FAC5;stroke:#FFFFFF;stroke-miterlimit:10;" width="109.999" height="13"/>
+		<rect x="-662" y="215.052" style="fill:#C4FAC5;stroke:#FFFFFF;stroke-miterlimit:10;" width="109.999" height="13"/>
+		<rect x="-662" y="228.052" style="fill:#C4FAC5;stroke:#FFFFFF;stroke-miterlimit:10;" width="109.999" height="13"/>
+		<rect x="-662" y="241.052" style="fill:#F9FAC4;stroke:#FFFFFF;stroke-miterlimit:10;" width="109.999" height="13"/>
+		<rect x="-662" y="254.052" style="fill:#FAC4CD;stroke:#FFFFFF;stroke-miterlimit:10;" width="109.999" height="13"/>
+		<rect x="-662" y="267.052" style="fill:#FAC4CD;stroke:#FFFFFF;stroke-miterlimit:10;" width="109.999" height="13"/>
+		<rect x="-662" y="280.052" style="fill:#C4FAC5;stroke:#FFFFFF;stroke-miterlimit:10;" width="109.999" height="13"/>
+		<circle style="fill:#E6E6E6;stroke:#E6E6E6;stroke-miterlimit:10;" cx="-656" cy="192.103" r="6"/>
+		<circle style="fill:#C4FAC5;stroke:#C4FAC5;stroke-miterlimit:10;" cx="-639" cy="192.103" r="6"/>
+		<circle style="fill:#F9FAC4;stroke:#F9FAC4;stroke-miterlimit:10;" cx="-622" cy="192.103" r="6"/>
+		<circle style="fill:#FAC4CD;stroke:#FAC4CD;stroke-miterlimit:10;" cx="-605" cy="192.103" r="6"/>
+		<rect x="-658" y="205.552" style="opacity:0.1;" width="64.402" height="6"/>
+		<rect x="-658" y="218.552" style="opacity:0.1;" width="74.997" height="6"/>
+		<rect x="-658" y="231.552" style="opacity:0.1;" width="50" height="6"/>
+		<rect x="-658" y="244.552" style="opacity:0.1;" width="59" height="6"/>
+		<rect x="-658" y="257.552" style="opacity:0.1;" width="44.587" height="6"/>
+		<rect x="-658" y="270.552" style="opacity:0.1;" width="55.35" height="6"/>
+		<rect x="-658" y="283.552" style="opacity:0.1;" width="66.04" height="6"/>
+		<path style="opacity:0.1;" d="M-559.841,212.051c-0.217,0-0.423-0.102-0.555-0.276l-1.786-2.361
+			c-0.232-0.307-0.172-0.743,0.135-0.975c0.307-0.234,0.744-0.172,0.977,0.135l1.175,1.552l2.956-4.746
+			c0.203-0.326,0.633-0.426,0.961-0.222c0.326,0.203,0.427,0.633,0.223,0.96l-3.492,5.605c-0.121,0.195-0.331,0.318-0.56,0.328
+			C-559.82,212.051-559.83,212.051-559.841,212.051z"/>
+		<path style="opacity:0.1;" d="M-639.853,195.551c-0.217,0-0.423-0.102-0.555-0.277l-1.786-2.361
+			c-0.232-0.306-0.172-0.743,0.135-0.975c0.307-0.233,0.744-0.172,0.977,0.135l1.175,1.552l2.956-4.746
+			c0.203-0.326,0.633-0.426,0.961-0.223c0.326,0.203,0.427,0.633,0.223,0.96l-3.492,5.605c-0.121,0.196-0.331,0.318-0.56,0.328
+			C-639.832,195.551-639.842,195.551-639.853,195.551z"/>
+		<path style="opacity:0.1;" d="M-559.841,225.051c-0.217,0-0.423-0.102-0.555-0.276l-1.786-2.361
+			c-0.232-0.307-0.172-0.743,0.135-0.975c0.307-0.234,0.744-0.172,0.977,0.135l1.175,1.552l2.956-4.746
+			c0.203-0.326,0.633-0.426,0.961-0.222c0.326,0.203,0.427,0.633,0.223,0.96l-3.492,5.605c-0.121,0.195-0.331,0.318-0.56,0.328
+			C-559.82,225.051-559.83,225.051-559.841,225.051z"/>
+		<path style="opacity:0.1;" d="M-559.841,238.051c-0.217,0-0.423-0.102-0.555-0.276l-1.786-2.361
+			c-0.232-0.307-0.172-0.743,0.135-0.975c0.307-0.234,0.744-0.172,0.977,0.135l1.175,1.552l2.956-4.746
+			c0.203-0.326,0.633-0.426,0.961-0.222c0.326,0.203,0.427,0.633,0.223,0.96l-3.492,5.605c-0.121,0.195-0.331,0.318-0.56,0.328
+			C-559.82,238.051-559.83,238.051-559.841,238.051z"/>
+		<path style="opacity:0.1;" d="M-559.841,290.051c-0.217,0-0.423-0.102-0.555-0.276l-1.786-2.361
+			c-0.232-0.306-0.172-0.743,0.135-0.975c0.307-0.234,0.744-0.172,0.977,0.135l1.175,1.552l2.956-4.746
+			c0.203-0.326,0.633-0.426,0.961-0.223c0.326,0.203,0.427,0.633,0.223,0.96l-3.492,5.605c-0.121,0.196-0.331,0.318-0.56,0.328
+			C-559.82,290.051-559.83,290.051-559.841,290.051z"/>
+		<g style="opacity:0.1;">
+			<path d="M-557.17,244.1c-0.507-0.365-1.143-0.548-1.909-0.548c-0.583,0-1.075,0.128-1.474,0.386
+				c-0.634,0.403-0.971,1.087-1.012,2.051h1.47c0-0.281,0.082-0.551,0.246-0.812c0.164-0.26,0.442-0.391,0.835-0.391
+				c0.399,0,0.674,0.106,0.824,0.317c0.151,0.212,0.226,0.446,0.226,0.703c0,0.224-0.112,0.429-0.248,0.615
+				c-0.074,0.108-0.172,0.208-0.294,0.3c0,0-0.797,0.511-1.147,0.922c-0.203,0.238-0.221,0.595-0.239,1.106
+				c-0.001,0.036,0.013,0.112,0.14,0.112c0.128,0,1.029,0,1.143,0c0.114,0,0.137-0.084,0.139-0.122
+				c0.008-0.186,0.028-0.281,0.063-0.389c0.064-0.203,0.239-0.38,0.435-0.533l0.404-0.279c0.365-0.285,0.656-0.518,0.785-0.701
+				c0.22-0.3,0.374-0.671,0.374-1.111C-556.41,245.007-556.663,244.466-557.17,244.1z M-559.103,249.74
+				c-0.506-0.016-0.924,0.335-0.94,0.884c-0.016,0.548,0.381,0.912,0.888,0.926c0.529,0.016,0.935-0.323,0.952-0.872
+				C-558.188,250.129-558.574,249.756-559.103,249.74z"/>
+		</g>
+		<g style="opacity:0.1;">
+			<path d="M-620.182,188.652c-0.507-0.365-1.143-0.548-1.909-0.548c-0.583,0-1.075,0.128-1.474,0.386
+				c-0.634,0.403-0.971,1.087-1.012,2.051h1.47c0-0.281,0.082-0.551,0.246-0.812c0.164-0.26,0.442-0.391,0.835-0.391
+				c0.399,0,0.674,0.106,0.824,0.317c0.151,0.212,0.226,0.446,0.226,0.703c0,0.224-0.112,0.429-0.248,0.615
+				c-0.074,0.108-0.172,0.208-0.294,0.3c0,0-0.797,0.511-1.147,0.922c-0.203,0.238-0.221,0.595-0.239,1.106
+				c-0.001,0.036,0.013,0.112,0.14,0.112c0.128,0,1.029,0,1.143,0c0.114,0,0.137-0.084,0.139-0.122
+				c0.008-0.186,0.028-0.281,0.063-0.389c0.064-0.203,0.239-0.38,0.435-0.533l0.404-0.279c0.365-0.285,0.656-0.518,0.785-0.701
+				c0.22-0.3,0.374-0.671,0.374-1.111C-619.422,189.559-619.675,189.018-620.182,188.652z M-622.115,194.292
+				c-0.506-0.016-0.924,0.335-0.94,0.884c-0.016,0.548,0.381,0.912,0.888,0.926c0.528,0.016,0.935-0.323,0.952-0.872
+				C-621.2,194.681-621.586,194.308-622.115,194.292z"/>
+		</g>
+		<path style="opacity:0.1;" d="M-556.813,262.976c-0.234,0.234-0.615,0.234-0.849,0l-1.326-1.515l-1.326,1.514
+			c-0.234,0.234-0.615,0.234-0.849,0c-0.234-0.234-0.234-0.614,0-0.848l1.379-1.575l-1.38-1.576c-0.234-0.234-0.234-0.614,0-0.849
+			s0.614-0.234,0.849,0l1.326,1.516l1.326-1.516c0.234-0.234,0.614-0.234,0.849,0s0.234,0.615,0,0.849l-1.379,1.576l1.379,1.575
+			C-556.579,262.361-556.579,262.741-556.813,262.976z"/>
+		<path style="opacity:0.1;" d="M-602.825,194.528c-0.234,0.235-0.615,0.235-0.849,0l-1.326-1.515l-1.326,1.515
+			c-0.234,0.234-0.615,0.234-0.848,0c-0.234-0.235-0.234-0.615,0-0.849l1.379-1.575l-1.38-1.576c-0.234-0.234-0.234-0.614,0-0.849
+			c0.234-0.234,0.614-0.234,0.849,0l1.326,1.516l1.326-1.516c0.234-0.234,0.614-0.234,0.849,0c0.234,0.235,0.234,0.615,0,0.849
+			l-1.379,1.576l1.379,1.575C-602.591,193.913-602.591,194.293-602.825,194.528z"/>
+		<path style="opacity:0.1;" d="M-556.813,275.976c-0.234,0.234-0.615,0.234-0.849,0l-1.326-1.515l-1.326,1.514
+			c-0.234,0.234-0.615,0.234-0.849,0c-0.234-0.234-0.234-0.615,0-0.849l1.379-1.575l-1.38-1.576c-0.234-0.234-0.234-0.614,0-0.848
+			s0.614-0.234,0.849,0l1.326,1.516l1.326-1.516c0.234-0.234,0.614-0.234,0.849,0s0.234,0.615,0,0.848l-1.379,1.576l1.379,1.575
+			C-556.579,275.361-556.579,275.741-556.813,275.976z"/>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 -815.9996 463.4826)" style="display:inline; font-family:'SourceSansPro-Light'; font-size:24px;">Newest Binge Lists</text>
+	
+		<text transform="matrix(1 0 0 1 -610.84 463.4826)" style="display:inline;opacity:0.4; font-family:'Merriweather-LightItalic'; font-size:14px;">See more &#xBB;</text>
+</g>
+<g id="nav" style="display:none;">
+	<rect x="-836" y="-5" style="display:inline;fill:#1A1A1A;" width="320" height="50"/>
+	<text transform="matrix(1 0 0 1 -816 27.6291)" style="display:inline;"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'Merriweather-LightItalic'; font-size:19.0866px;">binge</tspan><tspan x="49.086" y="0" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:22.0689px;">list</tspan></text>
+	<path style="display:inline;fill:#FFFFFF;" d="M-536.355,26.467l-3.779-3.779c0.57-0.935,0.898-2.035,0.898-3.21
+		c0-3.417-2.961-6.377-6.378-6.377c-3.417-0.001-6.186,2.769-6.186,6.186c0,3.416,2.961,6.377,6.377,6.377
+		c1.137,0,2.2-0.309,3.115-0.844l3.799,3.801c0.372,0.371,0.975,0.371,1.346,0l0.943-0.943
+		C-535.849,27.307-535.984,26.838-536.355,26.467z M-549.896,19.287c0-2.366,1.917-4.283,4.282-4.283
+		c2.366,0,4.474,2.107,4.474,4.474c0,2.365-1.918,4.283-4.283,4.283C-547.789,23.76-549.896,21.652-549.896,19.287z"/>
+	<rect x="-480" y="-5" style="display:inline;fill:#FFFFFF;" width="320" height="50"/>
+	
+		<text transform="matrix(1 0 0 1 -460 26.6291)" style="display:inline;fill:#B3B3B3; font-family:'Merriweather-LightItalic'; font-size:16px;">search for a show...</text>
+	<path style="display:inline;fill:#1A1A1A;" d="M-180.355,26.467l-3.779-3.779c0.57-0.935,0.898-2.035,0.898-3.21
+		c0-3.417-2.961-6.377-6.378-6.377c-3.417-0.001-6.186,2.769-6.186,6.186c0,3.416,2.961,6.377,6.377,6.377
+		c1.137,0,2.2-0.309,3.115-0.844l3.799,3.801c0.372,0.371,0.975,0.371,1.346,0l0.943-0.943
+		C-179.849,27.307-179.984,26.838-180.355,26.467z M-193.896,19.287c0-2.366,1.917-4.283,4.282-4.283
+		c2.366,0,4.474,2.107,4.474,4.474c0,2.365-1.918,4.283-4.283,4.283C-191.789,23.76-193.896,21.652-193.896,19.287z"/>
+	<rect x="-1896" y="-5" style="display:inline;fill:#1A1A1A;" width="960" height="50"/>
+	<text transform="matrix(1 0 0 1 -1736 26.6291)" style="display:inline;"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'Merriweather-LightItalic'; font-size:19.0866px;">binge</tspan><tspan x="49.086" y="0" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:22.0689px;">list</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 -1618.0042 25.6293)" style="display:inline;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:14px;">BROWSE</text>
+	
+		<text transform="matrix(1 0 0 1 -1528.0042 25.6293)" style="display:inline;fill:#FFFFFF; font-family:'SourceSansPro-Light'; font-size:14px;">ABOUT</text>
+	<path style="display:inline;fill:#FFFFFF;" d="M-1096.355,26.467l-3.779-3.779c0.57-0.935,0.898-2.035,0.898-3.21
+		c0-3.417-2.961-6.377-6.378-6.377c-3.417-0.001-6.186,2.769-6.186,6.186c0,3.416,2.961,6.377,6.377,6.377
+		c1.137,0,2.2-0.309,3.115-0.844l3.799,3.801c0.372,0.371,0.975,0.371,1.346,0l0.943-0.943
+		C-1095.849,27.307-1095.984,26.838-1096.355,26.467z M-1109.896,19.287c0-2.366,1.917-4.283,4.282-4.283
+		c2.366,0,4.474,2.107,4.474,4.474c0,2.365-1.918,4.283-4.283,4.283C-1107.789,23.76-1109.896,21.652-1109.896,19.287z"/>
+	<g style="display:inline;">
+		<rect x="-1385.344" style="fill:#FFFFFF;" width="300" height="40"/>
+		
+			<text transform="matrix(1 0 0 1 -1371.9542 26.6291)" style="fill:#B3B3B3; font-family:'Merriweather-LightItalic'; font-size:16px;">search for a show...</text>
+		<path style="fill:#1A1A1A;" d="M-1096.309,26.467l-3.779-3.779c0.57-0.935,0.898-2.035,0.898-3.21
+			c0-3.417-2.961-6.377-6.378-6.377c-3.417-0.001-6.186,2.769-6.186,6.186c0,3.416,2.961,6.377,6.377,6.377
+			c1.137,0,2.2-0.309,3.115-0.844l3.799,3.801c0.372,0.371,0.975,0.371,1.346,0l0.943-0.943
+			C-1095.803,27.307-1095.938,26.838-1096.309,26.467z M-1109.85,19.287c0-2.366,1.917-4.283,4.282-4.283
+			c2.366,0,4.474,2.107,4.474,4.474c0,2.365-1.918,4.283-4.283,4.283C-1107.743,23.76-1109.85,21.652-1109.85,19.287z"/>
+	</g>
+</g>
+<g id="sprites">
+	<polyline style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="302,20.667 296,25.333 290,20.667 	"/>
+	<polyline style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="354,25.333 360,20.667 366,25.333 	"/>
+	<g>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="238" y1="8" x2="246" y2="16"/>
+		<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="246" y1="8" x2="238" y2="16"/>
+	</g>
+	<text transform="matrix(1 0 0 1 5.8364 27.6291)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'Merriweather-LightItalic'; font-size:19.0866px;">binge</tspan><tspan x="49.086" y="0" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:22.0689px;">list</tspan></text>
+	<path style="fill:#1A1A1A;" d="M197.545,26.467l-3.779-3.779c0.57-0.935,0.898-2.035,0.898-3.21c0-3.417-2.961-6.377-6.378-6.377
+		c-3.417-0.001-6.186,2.769-6.186,6.186c0,3.416,2.961,6.377,6.377,6.377c1.137,0,2.2-0.309,3.115-0.844l3.799,3.801
+		c0.372,0.371,0.975,0.371,1.346,0l0.943-0.943C198.051,27.307,197.916,26.838,197.545,26.467z M184.004,19.287
+		c0-2.366,1.917-4.283,4.282-4.283c2.366,0,4.474,2.107,4.474,4.474c0,2.365-1.918,4.283-4.283,4.283
+		C186.111,23.76,184.004,21.652,184.004,19.287z"/>
+	<path style="fill:#FFFFFF;" d="M137.545,26.467l-3.779-3.779c0.57-0.935,0.898-2.035,0.898-3.21c0-3.417-2.961-6.377-6.378-6.377
+		c-3.417-0.001-6.186,2.769-6.186,6.186c0,3.416,2.961,6.377,6.377,6.377c1.137,0,2.2-0.309,3.115-0.844l3.799,3.801
+		c0.372,0.371,0.975,0.371,1.346,0l0.943-0.943C138.051,27.307,137.916,26.838,137.545,26.467z M124.004,19.287
+		c0-2.366,1.917-4.283,4.282-4.283c2.366,0,4.474,2.107,4.474,4.474c0,2.365-1.918,4.283-4.283,4.283
+		C126.111,23.76,124.004,21.652,124.004,19.287z"/>
+	<path style="fill:#FFFFFF;" d="M414,5c-3.817,0-6.222,1.176-6.222,2.334v1.555c0,0.714,4.666,4.666,4.666,4.666v4.666
+		C412.444,18.754,413.222,19,414,19s1.556-0.246,1.555-0.778v-4.666c0,0,4.666-3.952,4.666-4.666V7.334
+		C420.222,6.176,417.817,5,414,5z M414,8.984c-2.793-0.001-4.774-1.037-4.774-1.424c-0.002-0.385,1.982-1.424,4.774-1.422
+		c2.792-0.002,4.775,1.037,4.774,1.422C418.774,7.948,416.793,8.984,414,8.984z"/>
+	<path style="fill:#FAC4CD;" d="M458,5c-3.817,0-6.222,1.176-6.222,2.334v1.555c0,0.714,4.666,4.666,4.666,4.666v4.666
+		C456.444,18.754,457.222,19,458,19s1.556-0.246,1.555-0.778v-4.666c0,0,4.666-3.952,4.666-4.666V7.334
+		C464.222,6.176,461.817,5,458,5z M458,8.984c-2.793-0.001-4.774-1.037-4.774-1.424c-0.002-0.385,1.982-1.424,4.774-1.422
+		c2.792-0.002,4.775,1.037,4.774,1.422C462.774,7.948,460.793,8.984,458,8.984z"/>
+	<path style="fill:#F9FAC4;" d="M502,5c-3.817,0-6.222,1.176-6.222,2.334v1.555c0,0.714,4.666,4.666,4.666,4.666v4.666
+		C500.444,18.754,501.222,19,502,19s1.556-0.246,1.555-0.778v-4.666c0,0,4.666-3.952,4.666-4.666V7.334
+		C508.222,6.176,505.817,5,502,5z M502,8.984c-2.793-0.001-4.774-1.037-4.774-1.424c-0.002-0.385,1.982-1.424,4.774-1.422
+		c2.792-0.002,4.775,1.037,4.774,1.422C506.774,7.948,504.793,8.984,502,8.984z"/>
+	<path style="fill:#C4FAC5;" d="M546,5c-3.817,0-6.222,1.176-6.222,2.334v1.555c0,0.714,4.666,4.666,4.666,4.666v4.666
+		C544.444,18.754,545.222,19,546,19s1.556-0.246,1.555-0.778v-4.666c0,0,4.666-3.952,4.666-4.666V7.334
+		C552.222,6.176,549.817,5,546,5z M546,8.984c-2.793-0.001-4.774-1.037-4.774-1.424c-0.002-0.385,1.982-1.424,4.774-1.422
+		c2.792-0.002,4.775,1.037,4.774,1.422C550.774,7.948,548.793,8.984,546,8.984z"/>
+</g>
+<g id="nyt_x5F_exporter_x5F_info" style="display:none;">
+	<text transform="matrix(1 0 0 1 -1800 -5)" style="display:inline;"><tspan x="0" y="0" style="font-family:'MyriadPro-Regular'; font-size:12px;">&lt;nyt_prefs&gt;</tspan><tspan x="0" y="14.4" style="font-family:'MyriadPro-Regular'; font-size:12px;">  &lt;nyt_prefix/&gt;</tspan><tspan x="0" y="28.8" style="font-family:'MyriadPro-Regular'; font-size:12px;">  &lt;nyt_suffix/&gt;</tspan><tspan x="0" y="43.2" style="font-family:'MyriadPro-Regular'; font-size:12px;">  &lt;nyt_base_path&gt;~/Desktop&lt;/nyt_base_path&gt;</tspan><tspan x="0" y="57.6" style="font-family:'MyriadPro-Regular'; font-size:12px;">  &lt;nyt_scaling&gt;100%&lt;/nyt_scaling&gt;</tspan><tspan x="0" y="72" style="font-family:'MyriadPro-Regular'; font-size:12px;">  &lt;nyt_transparency&gt;true&lt;/nyt_transparency&gt;</tspan><tspan x="0" y="86.4" style="font-family:'MyriadPro-Regular'; font-size:12px;">  &lt;nyt_format&gt;PNG 24&lt;/nyt_format&gt;</tspan><tspan x="0" y="100.8" style="font-family:'MyriadPro-Regular'; font-size:12px;">  &lt;nyt_export_code&gt;artboards&lt;/nyt_export_code&gt;</tspan><tspan x="0" y="115.2" style="font-family:'MyriadPro-Regular'; font-size:12px;">&lt;/nyt_prefs&gt;</tspan></text>
+</g>
+</svg>

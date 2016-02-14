@@ -1,0 +1,12 @@
+
+<div itemscope="itemscope" itemtype="http://schema.org/Thing" ng-repeat="product in products track by product.id" class="product-container">
+  <div class="title left">{{ product.displayName }}</div>
+  <div class="age right">{{ product.id }}</div>
+  <figure itemscope="itemscope" itemtype="http://schema.org/ImageObject" class="product">
+    <div class="product-wrapper"><img src="{{ product.imageURL }}"/></div>
+    <figcaption itemtype="caption">{{ product.longDescription }}</figcaption>
+    <div class="right">
+      <button><i class="fa fa-ellipsis-h"></i></button>
+    </div>
+  </figure>
+</div>

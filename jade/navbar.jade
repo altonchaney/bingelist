@@ -1,0 +1,14 @@
+.navbar
+	.navbar-container
+		a.navbar-logo(ng-click="changeView('home')") <!-- svg background -->
+		.navbar-links
+			ul
+				li
+					a(ng-click="changeView('home')", ng-class="{active: routeIs('/')}") BROWSE
+				li
+					a(ng-click="changeView('about')", ng-class="{active: routeIs('/about')}") ABOUT
+		.navbar-search
+			.search-container.inactive
+				input.search-box(placeholder="search...")
+				a(href="#")
+					button.search-icon

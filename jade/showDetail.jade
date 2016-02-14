@@ -1,0 +1,36 @@
+section#show-header
+	.show-header-container(style="background-image: url('{{ tvshow.image.original }}');")
+		.show-header-overlay
+			.show-header-content
+				h1.show-title {{ tvshow.name }}
+				h2.show-seasons {{ tvshow.premiered | date:"yyyy" }}-{{ tvshow._embedded.previousepisode.airdate | date:"yyyy" }}  ·  <ng-pluralize count="maxSeasons" when="{'one': '1 Season', 'other': '{} Seasons'}"></ng-pluralize>
+				.episode-breakdown-list
+					h3.label-list Episodes
+					.list-item.all.active {{ episodes.length }}
+					p.label-all All
+					.list-item.required 48
+					p.label-required Required
+					.list-item.maybe 14
+					p.label-maybe Maybe
+					.list-item.filler 10
+					p.label-filler Filler
+				button.episode-filter-expand.inactive.all
+section#show-list
+	.show-season-container(
+		itemscope, itemtype="http://schema.org/Thing",
+		ng-repeat="episode in episodes | orderBy:'airdate'")
+		//.show-season-header
+			h3 Season 1
+			button.show-season-close
+		.show-episode.open.required
+			h2.episode-number <twodigit content="episode.season"></twodigit>.<twodigit content="episode.number"></twodigit>
+			h1.episode-title {{ episode.name }}
+			h2.episode-aired Aired {{ episode.airdate }}
+			button.episode-expand.inactive
+			.episode-details.open
+				h3.detail-header Synopsis
+				p.detail-synopsis {{ episode.summary }}
+				h3.detail-header Air Date
+				p.detail-date {{ episode.airdate }}
+				h3.detail-header Episode Status
+				p.detail-status Must Watch

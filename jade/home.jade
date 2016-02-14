@@ -1,0 +1,30 @@
+section#masthead
+	.masthead-container
+		.masthead-overlay
+			h1.masthead-title Binge watch more concisely
+			h2.masthead-subtitle Catching up in your favorite shows has never been easier
+
+.body-container
+	section#intro
+		.intro-container
+			.intro-video
+				video(src="../img/intro-videos.mp4")
+			.intro-text
+				p.
+					So you want to dive into a new show, but are daunted by the dozens of hours it would take to catch up. Thankfully, we’ve got you covered. Each of our hand-crafted Binge Lists distill down an entire show’s episode list to ones that are critical to the main plot, allowing you to skip filler episodes.
+
+	section#recent
+		h1.section-title Newest Binge Lists
+		a.see-more(ng-href="/shows", ng-click="value = 2") See more »
+		.show-snippet-container(
+			itemscope, itemtype="http://schema.org/Thing",
+			ng-repeat="tvshow in tvshows | orderBy:'updated' | limitTo:10",
+			style="background-image: url('{{ tvshow.image.original }}');")
+			.show-snippet-overlay
+				a.show-title(ng-href="/shows/{{ tvshow.id }}") {{ tvshow.name }}
+				.show-seasons 1 Season
+				.episode-breakdown-list
+					.list-item.all 72
+					.list-item.required 48
+					.list-item.maybe 14
+					.list-item.filler 10
