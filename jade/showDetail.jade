@@ -22,12 +22,12 @@ section#show-list
 		//.show-season-header
 			h3 Season 1
 			button.show-season-close
-		.show-episode.open.required
+		.show-episode.close.required
 			h2.episode-number <twodigit content="episode.season"></twodigit>.<twodigit content="episode.number"></twodigit>
 			h1.episode-title {{ episode.name }}
 			h2.episode-aired Aired {{ episode.airdate }}
 			button.episode-expand.inactive
-			.episode-details.open
+			.episode-details.close
 				h3.detail-header Synopsis
 				p.detail-synopsis {{ episode.summary }}
 				h3.detail-header Air Date

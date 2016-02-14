@@ -10,8 +10,6 @@ angular.module('bingeList', [
     '$routeProvider',
     '$locationProvider',
   function($routeProvider, $locationProvider){
-    $locationProvider.html5Mode(true);
-
     $routeProvider
       .when('/', {
         templateUrl: 'html/home.html',
@@ -28,5 +26,8 @@ angular.module('bingeList', [
       .otherwise({
         redirectTo: '/'
       });
+      
+      $locationProvider.html5Mode(true);
+      $locationProvider.hashPrefix('!');
   }
 ]);

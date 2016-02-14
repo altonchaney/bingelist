@@ -1,10 +1,10 @@
 
 <div class="navbar">
-  <div class="navbar-container"><a ng-click="changeView('home')" class="navbar-logo"><!-- svg background --></a>
+  <div class="navbar-container"><a ng-href="/" ng-click="value = 2" class="navbar-logo"><!-- svg background --></a>
     <div class="navbar-links">
       <ul>
-        <li><a ng-click="changeView('home')" ng-class="{active: routeIs('/')}">BROWSE</a></li>
-        <li><a ng-click="changeView('about')" ng-class="{active: routeIs('/about')}">ABOUT</a></li>
+        <li><a ng-href="/" ng-click="value = 2" ng-class="{active: routeIs('/')}">BROWSE</a></li>
+        <li><a ng-href="/shows" ng-click="value = 2" ng-class="{active: routeIs('/about')}">ABOUT</a></li>
       </ul>
     </div>
     <div class="navbar-search">

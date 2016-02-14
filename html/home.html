@@ -21,6 +21,7 @@
       </div>
     </div>
   </section>
+  <section id="break"></section>
   <section id="recent">
     <h1 class="section-title">Newest Binge Lists</h1><a ng-href="/shows" ng-click="value = 2" class="see-more">See more »</a>
     <div itemscope="itemscope" itemtype="http://schema.org/Thing" ng-repeat="tvshow in tvshows | orderBy:'updated' | limitTo:10" style="background-image: url('{{ tvshow.image.original }}');" class="show-snippet-container">

@@ -22,6 +22,10 @@ button {
 #container {
   margin-top: 50px;
 }
+section#break {
+  clear: both;
+  height: 20px;
+}
 .navbar {
   width: 100%;
   height: 50px;
@@ -208,6 +212,8 @@ button {
   text-transform: uppercase;
   font-weight: 800;
   margin: 0 0 -4px;
+  color: #ffffff;
+  line-height: 18px;
 }
 .body-container > #recent > .show-snippet-container > .show-snippet-overlay > .show-seasons {
   font-size: 18px;

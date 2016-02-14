@@ -1,12 +1,12 @@
 .navbar
 	.navbar-container
-		a.navbar-logo(ng-click="changeView('home')") <!-- svg background -->
+		a.navbar-logo(ng-href="/", ng-click="value = 2") <!-- svg background -->
 		.navbar-links
 			ul
 				li
-					a(ng-click="changeView('home')", ng-class="{active: routeIs('/')}") BROWSE
+					a(ng-href="/", ng-click="value = 2", ng-class="{active: routeIs('/')}") BROWSE
 				li
-					a(ng-click="changeView('about')", ng-class="{active: routeIs('/about')}") ABOUT
+					a(ng-href="/shows", ng-click="value = 2", ng-class="{active: routeIs('/about')}") ABOUT
 		.navbar-search
 			.search-container.inactive
 				input.search-box(placeholder="search...")
