@@ -1,9 +1,8 @@
 angular.module('bingeList', [
     'ngRoute',
     'bingelist-controllers',
-    'tvshow-feed',
-    'tvshow-api',
-    'tvshow-data'
+    'bingelist-directives',
+    'bingelist-filters'
 ])
 
 .config([

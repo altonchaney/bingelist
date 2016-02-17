@@ -17,7 +17,6 @@
           <p class="label-filler">Filler</p>
         </div>
         <button class="episode-filter-expand inactive all"></button>
-        <p>{{ bingelist.season1.episode1 }}</p>
       </div>
     </div>
   </div>
@@ -28,8 +27,8 @@
     h3 Season 1
     button.show-season-close
     -->
-    <div ng-class="{ 'required': bingelist.season[episode.season].episode[episode.number] = 'required', 'maybe': bingelist.season[episode.season].episode[episode.number] = 'maybe', 'filler': bingelist.season[episode.season].episode[episode.number] = 'filler' }" class="show-episode close">
-      <h2 class="episode-number"><twodigit content="episode.season"></twodigit>.<twodigit content="episode.number"></twodigit></h2>
+    <div class="show-episode close {{ bingelist.season[episode.season].episode[episode.number] }}">
+      <h2 class="episode-number">{{ episode.season | twodigit }}.{{ episode.number | twodigit }}</h2>
       <h1 class="episode-title">{{ episode.name }}</h1>
       <h2 class="episode-aired">Aired {{ episode.airdate }}</h2>
       <button class="episode-expand inactive"></button>
@@ -39,7 +38,7 @@
         <h3 class="detail-header">Air Date</h3>
         <p class="detail-date">{{ episode.airdate }}</p>
         <h3 class="detail-header">Episode Status</h3>
-        <p class="detail-status">Must Watch</p>
+        <p class="detail-status">{{ bingelist.season[episode.season].episode[episode.number] }}</p>
       </div>
     </div>
   </div>

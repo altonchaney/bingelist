@@ -1,16 +1,6 @@
-angular.module('tvshow-feed', [])
+angular.module('bingelist-directives', [])
 
-.directive('tvshowFeed', function(){
-  return {
-    restrict   : 'E',
-    scope      : {
-      locations: '='
-    },
-    templateUrl: 'home.html',
-  };
-})
-
-.directive('twodigit', function () {
+.directive('episode', function () {
     return {
         restrict: 'E',
         scope: {
@@ -23,11 +13,11 @@ angular.module('tvshow-feed', [])
                 scope.zero = "";
             }
         },
-        transclude: true,
         template: '{{zero}}{{content}}'
     };
 })
 
+//date parser
 .directive('dateToISO', function() {
     return  function(input) {
        var dateTime = input.split(" ");

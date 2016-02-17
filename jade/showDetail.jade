@@ -15,7 +15,6 @@ section#show-header
 					.list-item.filler 10
 					p.label-filler Filler
 				button.episode-filter-expand.inactive.all
-				p {{ bingelist.season1.episode1 }}
 section#show-list
 	.show-season-container(
 		itemscope, itemtype="http://schema.org/Thing",
@@ -23,8 +22,8 @@ section#show-list
 		//.show-season-header
 			h3 Season 1
 			button.show-season-close
-		.show-episode.close(ng-class="{ 'required': bingelist.season[episode.season].episode[episode.number] = 'required', 'maybe': bingelist.season[episode.season].episode[episode.number] = 'maybe', 'filler': bingelist.season[episode.season].episode[episode.number] = 'filler' }")
-			h2.episode-number <twodigit content="episode.season"></twodigit>.<twodigit content="episode.number"></twodigit>
+		.show-episode.close(class="{{ bingelist.season[episode.season].episode[episode.number] }}")
+			h2.episode-number {{ episode.season | twodigit }}.{{ episode.number | twodigit }}
 			h1.episode-title {{ episode.name }}
 			h2.episode-aired Aired {{ episode.airdate }}
 			button.episode-expand.inactive
@@ -34,4 +33,4 @@ section#show-list
 				h3.detail-header Air Date
 				p.detail-date {{ episode.airdate }}
 				h3.detail-header Episode Status
-				p.detail-status Must Watch
+				p.detail-status {{ bingelist.season[episode.season].episode[episode.number] }}
