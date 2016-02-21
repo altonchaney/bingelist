@@ -9,11 +9,11 @@
           <h3 class="label-list">Episodes</h3>
           <div class="list-item all active">{{ episodes.length }}</div>
           <p class="label-all">All</p>
-          <div class="list-item required">48</div>
+          <div class="list-item required">{{ requiredCount }}</div>
           <p class="label-required">Required</p>
-          <div class="list-item maybe">14</div>
+          <div class="list-item maybe">{{ maybeCount }}</div>
           <p class="label-maybe">Maybe</p>
-          <div class="list-item filler">10</div>
+          <div class="list-item filler">{{ fillerCount }}</div>
           <p class="label-filler">Filler</p>
         </div>
         <button class="episode-filter-expand inactive all"></button>
@@ -27,7 +27,7 @@
     h3 Season 1
     button.show-season-close
     -->
-    <div class="show-episode close {{ bingelist.season[episode.season].episode[episode.number] }}">
+    <div class="show-episode close">
       <h2 class="episode-number">{{ episode.season | twodigit }}.{{ episode.number | twodigit }}</h2>
       <h1 class="episode-title">{{ episode.name }}</h1>
       <h2 class="episode-aired">Aired {{ episode.airdate }}</h2>
@@ -38,7 +38,7 @@
         <h3 class="detail-header">Air Date</h3>
         <p class="detail-date">{{ episode.airdate }}</p>
         <h3 class="detail-header">Episode Status</h3>
-        <p class="detail-status">{{ bingelist.season[episode.season].episode[episode.number] }}</p>
+        <p class="detail-status"></p>
       </div>
     </div>
   </div>
