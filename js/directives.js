@@ -1,21 +1,24 @@
 angular.module('bingelist-directives', [])
 
-.directive('episode', function () {
-    return {
-        restrict: 'E',
-        scope: {
-            content: '='
-        },
-        link: function (scope) {
-            if (scope.content < 10) {
-                scope.zero = "0";
-            } else {
-                scope.zero = "";
-            }
-        },
-        template: '{{zero}}{{content}}'
-    };
+
+//episode stuff
+.directive('episodeDetails', function($animate){
+  return {
+    scope: true,
+    templateUrl:'episodeDetails.html',
+    link: function(scope, elem, attrs){
+      scope.viewDetails = true;
+      elem.find('button').bind('click', function(){
+        $animate.addClass(elem, "switching", function(){
+          scope.viewDetails = !scope.viewDetails;
+          scope.$apply();
+          elem.removeClass("switching");
+        });
+      });
+    }
+  };
 })
+
 
 //date parser
 .directive('dateToISO', function() {

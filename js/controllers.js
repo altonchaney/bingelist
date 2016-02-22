@@ -9,7 +9,29 @@ angular.module('bingelist-controllers', [])
     });
 })
 
-.controller('tvshowCtrl', function($scope, $http, $routeParams){
+.controller('tvshowCtrl', function($scope, $http, $routeParams, filterFilter){
+
+	$scope.selectedKind = [];
+	$scope.episodeKinds = [{
+		id: 1,
+		name: 'required'
+	}, {
+		id: 2,
+		name: 'maybe'
+	}, {
+		id: 3,
+		name: 'filler'
+	}];
+	
+	$scope.setSelectedKind = function () {
+		var id = this.episodeKinds.id;
+		if (_.contains($scope.selectedKind, id)) {
+			$scope.selectedKind = _.without($scope.selectedKind, id);
+		} else {
+			$scope.selectedKind.push(id);
+		}
+		return false;
+	};
   
   //var showId = $routeParams.showId; //testing one show
   var showId = 158;
@@ -28,16 +50,6 @@ angular.module('bingelist-controllers', [])
   $http.get('../list/' + showId + '.json')
     .then(function(bingelist){
       $scope.bingelist = bingelist.data;
-      var countObj = { };
-			for (var i = 0, j = bingelist.length; i < j; i++) {
-				 countObj[bingelist[i]] = (countObj[bingelist[i]] || 0) + 1;
-			};
-			
-			console.log(countObj["required"]);
-			$scope.requiredCount = countObj["required"];
-			$scope.maybeCount = countObj["maybe"];
-			$scope.fillerCount = countObj["filler"];
     });
 });
-
 			

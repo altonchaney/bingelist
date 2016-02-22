@@ -8,21 +8,19 @@ section#show-header
 					h3.label-list Episodes
 					.list-item.all.active {{ episodes.length }}
 					p.label-all All
-					.list-item.required {{ requiredCount }}
+					.list-item.required 40
 					p.label-required Required
-					.list-item.maybe {{ maybeCount }}
+					.list-item.maybe 48
 					p.label-maybe Maybe
-					.list-item.filler {{ fillerCount }}
+					.list-item.filler 12
 					p.label-filler Filler
 				button.episode-filter-expand.inactive.all
 section#show-list
-	.show-season-container(
-		itemscope, itemtype="http://schema.org/Thing",
-		ng-repeat="episode in episodes | orderBy:'airdate'")
+	.show-season-container.fade(ng-repeat="episode in episodes | orderBy:'airdate'")
 		//.show-season-header
 			h3 Season 1
 			button.show-season-close
-		.show-episode.close
+		.show-episode.close(class="{{ bingelist.season[episode.season].episode[episode.number] }}")
 			h2.episode-number {{ episode.season | twodigit }}.{{ episode.number | twodigit }}
 			h1.episode-title {{ episode.name }}
 			h2.episode-aired Aired {{ episode.airdate }}
@@ -33,4 +31,4 @@ section#show-list
 				h3.detail-header Air Date
 				p.detail-date {{ episode.airdate }}
 				h3.detail-header Episode Status
-				p.detail-status
+				p.detail-status {{ bingelist.season[episode.season].episode[episode.number] | uppercase}}

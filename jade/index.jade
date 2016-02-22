@@ -13,14 +13,17 @@ html(lang=en)
 		script(src='../vendor/angular/angular-route.js')
 		script(src='../vendor/angular/angular-animate.js')
 		script(src='../vendor/jquery-2.1.1.js')
+		script(src='http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js')
 		script(src='../js/controllers.js')
 		script(src='../js/directives.js')
 		script(src='../js/filters.js')
+		script(src='../js/factories.js')
 		script(src='../js/app.js')
 		
 		base(href="/")
 		
 	body(ng-app="bingeList")
 		ng-include(src="'html/navbar.html'")
+		#spinner
 		div#container.reveal-animation(ng-view)
 		ng-include(src="'html/footer.html'")

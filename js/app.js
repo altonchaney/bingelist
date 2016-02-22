@@ -1,14 +1,25 @@
 angular.module('bingeList', [
+		'ngAnimate',
     'ngRoute',
     'bingelist-controllers',
     'bingelist-directives',
-    'bingelist-filters'
+    'bingelist-filters',
+    'bingelist-factories'
 ])
 
 .config([
     '$routeProvider',
     '$locationProvider',
-  function($routeProvider, $locationProvider){
+    '$httpProvider',
+  function($routeProvider, $locationProvider, $httpProvider){
+  
+  	//$httpProvider.responseInterceptors.push('myHttpInterceptor');
+		//var spinnerFunction = function spinnerFunction(data, headersGetter) {
+		//	$("#spinner").show();
+		//	return data;
+		//};
+		//$httpProvider.defaults.transformRequest.push(spinnerFunction);
+  
     $routeProvider
       .when('/', {
         templateUrl: 'html/home.html',
