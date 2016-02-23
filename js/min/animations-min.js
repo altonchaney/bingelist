@@ -19,3 +19,4 @@ function filterEpisodes(kind){
 $('.list-item.required').click(function(){ filterEpisodes('required'); });
 $('.list-item.maybe').click(function(){ filterEpisodes('maybe'); });
 $('.list-item.filler').click(function(){ filterEpisodes('filler'); });
+

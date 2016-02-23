@@ -1,0 +1,56 @@
+.episode-required-show, .episode-maybe-show, .episode-filler-show,
+.episode-required-hide, .episode-maybe-hide, .episode-filler-hide {
+  -webkit-transition:all linear 0.3s;
+  -moz-transition:all linear 0.3s;
+  -ms-transition:all linear 0.3s;
+  -o-transition:all linear 0.3s;
+  transition:all linear 0.3s;
+}
+
+.episode-required-show, .episode-maybe-show, .episode-filler-show {
+	&.ng-hide-remove {
+		opacity: 0;
+  	display: block !important;
+  	&.ng-hide-remove-active {
+  		opacity: 1;
+  		display: block !important;
+  	}
+	}
+}
+
+.episode-required-hide, .episode-maybe-hide, .episode-filler-hide {
+	&.ng-hide-add {
+		opacity: 1;
+  	display: block !important;
+  	&.ng-hide-add-active {
+  		opacity: 0;
+  		display: block !important;
+  	}
+	}
+}
+
+
+
+//.show-episode {
+//	&.ng-enter, &.ng-leave {
+//		-webkit-transition: 0.3s linear all;
+//		-moz-transition: 0.3s linear all;
+//		-o-transition: 0.3s linear all;
+//		transition: 0.3s linear all;
+//	
+//	}
+//
+//	&.ng-enter {
+//		opacity: 0;
+//		&.ng-enter-active { 
+//			opacity: 1;
+//		}
+//	}
+//
+//	&.ng-leave {
+//		opacity: 1;
+//		&.ng-leave-active { 
+//			opacity: 0;
+//		}
+//	}
+//}

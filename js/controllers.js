@@ -9,29 +9,7 @@ angular.module('bingelist-controllers', [])
     });
 })
 
-.controller('tvshowCtrl', function($scope, $http, $routeParams, filterFilter){
-
-	$scope.selectedKind = [];
-	$scope.episodeKinds = [{
-		id: 1,
-		name: 'required'
-	}, {
-		id: 2,
-		name: 'maybe'
-	}, {
-		id: 3,
-		name: 'filler'
-	}];
-	
-	$scope.setSelectedKind = function () {
-		var id = this.episodeKinds.id;
-		if (_.contains($scope.selectedKind, id)) {
-			$scope.selectedKind = _.without($scope.selectedKind, id);
-		} else {
-			$scope.selectedKind.push(id);
-		}
-		return false;
-	};
+.controller('tvshowCtrl', function($scope, $http, $routeParams){
   
   //var showId = $routeParams.showId; //testing one show
   var showId = 158;
@@ -51,5 +29,39 @@ angular.module('bingelist-controllers', [])
     .then(function(bingelist){
       $scope.bingelist = bingelist.data;
     });
+  
+  // filter animations
+  $scope.animaterequired = false;
+	$scope.togglerequired = function() {
+		console.log('animating requireds');
+		$scope.animaterequired = !$scope.animaterequired;
+	};
+	$scope.animatemaybe = false;
+	$scope.togglemaybe = function() {
+		console.log('animating maybes');
+		$scope.animatemaybe = !$scope.animatemaybe;
+	};
+	$scope.animatefiller = false;
+	$scope.togglefiller = function() {
+		console.log('animating fillers');
+		$scope.animatefiller = !$scope.animatefiller;
+	};
+  
+  // trying to count up duplicates in the episode array i provide
+  $scope.kindData = [];
+  $scope.stats = function() {
+    $scope.results = {};
+    for (var i = 0; i < $scope.kindData.length; i++) {
+      var kind = $scope.kindData[i];
+      if(kind) {
+        if ($scope.results.hasOwnProperty(kind)) {
+          $scope.results[kind]++;
+        } else {
+          $scope.results[kind] = 1;
+        }
+      }
+    }
+  };
+  
 });
 			

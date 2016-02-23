@@ -1,0 +1,19 @@
+.show-episode.ng-enter,
+.show-episode.ng-leave {
+  -webkit-transition: 0.3s linear all;
+  -moz-transition: 0.3s linear all;
+  -o-transition: 0.3s linear all;
+  transition: 0.3s linear all;
+}
+.show-episode.ng-enter {
+  opacity: 0;
+}
+.show-episode.ng-enter.ng-enter-active {
+  opacity: 1;
+}
+.show-episode.ng-leave {
+  opacity: 1;
+}
+.show-episode.ng-leave.ng-leave-active {
+  opacity: 0;
+}

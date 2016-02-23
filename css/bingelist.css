@@ -1,3 +1,39 @@
+.episode-required-show,
+.episode-maybe-show,
+.episode-filler-show,
+.episode-required-hide,
+.episode-maybe-hide,
+.episode-filler-hide {
+  -webkit-transition: all linear 0.3s;
+  -moz-transition: all linear 0.3s;
+  -ms-transition: all linear 0.3s;
+  -o-transition: all linear 0.3s;
+  transition: all linear 0.3s;
+}
+.episode-required-show.ng-hide-remove,
+.episode-maybe-show.ng-hide-remove,
+.episode-filler-show.ng-hide-remove {
+  opacity: 0;
+  display: block !important;
+}
+.episode-required-show.ng-hide-remove.ng-hide-remove-active,
+.episode-maybe-show.ng-hide-remove.ng-hide-remove-active,
+.episode-filler-show.ng-hide-remove.ng-hide-remove-active {
+  opacity: 1;
+  display: block !important;
+}
+.episode-required-hide.ng-hide-add,
+.episode-maybe-hide.ng-hide-add,
+.episode-filler-hide.ng-hide-add {
+  opacity: 1;
+  display: block !important;
+}
+.episode-required-hide.ng-hide-add.ng-hide-add-active,
+.episode-maybe-hide.ng-hide-add.ng-hide-add-active,
+.episode-filler-hide.ng-hide-add.ng-hide-add-active {
+  opacity: 0;
+  display: block !important;
+}
 body {
   width: 100%;
   height: 100%;
