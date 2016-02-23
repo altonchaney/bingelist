@@ -31,37 +31,67 @@ angular.module('bingelist-controllers', [])
     });
   
   // filter animations
-  $scope.animaterequired = false;
+  $scope.required = true;
 	$scope.togglerequired = function() {
 		console.log('animating requireds');
-		$scope.animaterequired = !$scope.animaterequired;
+		$scope.required = $scope.required === false ? true: false;
+		console.log('change required to ' + $scope.required);
 	};
-	$scope.animatemaybe = false;
+	$scope.maybe = true;
 	$scope.togglemaybe = function() {
 		console.log('animating maybes');
-		$scope.animatemaybe = !$scope.animatemaybe;
+		$scope.maybe = $scope.maybe === false ? true: false;
+		console.log('change maybe to ' + $scope.required);
 	};
-	$scope.animatefiller = false;
+	$scope.filler = true;
 	$scope.togglefiller = function() {
 		console.log('animating fillers');
-		$scope.animatefiller = !$scope.animatefiller;
+		$scope.filler = $scope.filler === false ? true: false;
+		console.log('change filler to ' + $scope.required);
 	};
+	$scope.allkinds = true;
+	$scope.toggleallkinds = function() {
+		console.log('animating allkinds');
+		$scope.allkinds = $scope.allkinds === false ? true: false;
+		if ($scope.allkinds === true) {
+			if ($scope.required !== true) {
+				$scope.togglerequired();
+			}
+			if ($scope.maybe !== true) {
+				$scope.togglemaybe();
+			}
+			if ($scope.filler !== true) {
+				$scope.togglefiller();
+			}
+		} else {
+			if ($scope.required === true) {
+				$scope.togglerequired();
+			}
+			if ($scope.maybe === true) {
+				$scope.togglemaybe();
+			}
+			if ($scope.filler === true) {
+				$scope.togglefiller();
+			}
+		}
+	};
+	
   
   // trying to count up duplicates in the episode array i provide
-  $scope.kindData = [];
-  $scope.stats = function() {
-    $scope.results = {};
-    for (var i = 0; i < $scope.kindData.length; i++) {
-      var kind = $scope.kindData[i];
-      if(kind) {
-        if ($scope.results.hasOwnProperty(kind)) {
-          $scope.results[kind]++;
-        } else {
-          $scope.results[kind] = 1;
-        }
-      }
-    }
-  };
+  // $scope.kindData = [];
+//   $scope.stats = function() {
+//     $scope.results = {};
+//     for (var i = 0; i < $scope.kindData.length; i++) {
+//       var kind = $scope.kindData[i];
+//       if(kind) {
+//         if ($scope.results.hasOwnProperty(kind)) {
+//           $scope.results[kind]++;
+//         } else {
+//           $scope.results[kind] = 1;
+//         }
+//       }
+//     }
+//   };
   
 });
 			

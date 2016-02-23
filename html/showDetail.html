@@ -7,13 +7,13 @@
         <h2 class="show-seasons">{{ tvshow.premiered | date:"yyyy" }}-{{ tvshow._embedded.previousepisode.airdate | date:"yyyy" }}  ·  <ng-pluralize count="maxSeasons" when="{'one': '1 Season', 'other': '{} Seasons'}"></ng-pluralize></h2>
         <div class="episode-breakdown-list">
           <h3 class="label-list">Episodes</h3>
-          <button ng-click="toggleall()" class="list-item all active">{{ episodes.length }}</button>
+          <button ng-click="toggleallkinds()" ng-class="{'active': allkinds}" class="list-item all">{{ episodes.length }}</button>
           <p class="label-all">All</p>
-          <button ng-click="togglerequired()" class="list-item required">40</button>
+          <button ng-click="togglerequired()" ng-class="{'active': required}" class="list-item required">40</button>
           <p class="label-required">Required</p>
-          <button ng-click="togglemaybe()" class="list-item maybe">48</button>
+          <button ng-click="togglemaybe()" ng-class="{'active': maybe}" class="list-item maybe">48</button>
           <p class="label-maybe">Maybe</p>
-          <button ng-click="togglefiller()" class="list-item filler">12</button>
+          <button ng-click="togglefiller()" ng-class="{'active': filler}" class="list-item filler">12</button>
           <p class="label-filler">Filler</p>
         </div>
         <button class="episode-filter-expand inactive all"></button>
@@ -27,12 +27,12 @@
     h3 Season 1
     button.show-season-close
     -->
-    <div ng-hide="animate{{ bingelist.season[episode.season].episode[episode.number] }}" class="show-episode close {{ bingelist.season[episode.season].episode[episode.number] }} episode-{{ bingelist.season[episode.season].episode[episode.number] }}-show episode-{{ bingelist.season[episode.season].episode[episode.number] }}-hide">
+    <div ng-show="{{ bingelist.season[episode.season].episode[episode.number] }}" class="show-episode close {{ bingelist.season[episode.season].episode[episode.number] }}">
       <h2 class="episode-number">{{ episode.season | twodigit }}.{{ episode.number | twodigit }}</h2>
       <h1 class="episode-title">{{ episode.name }}</h1>
       <h2 class="episode-aired">Aired {{ episode.airdate }}</h2>
       <button class="episode-expand inactive"></button>
-      <div class="episode-details open">
+      <div class="episode-details close">
         <h3 class="detail-header">Synopsis</h3>
         <p class="detail-synopsis">{{ episode.summary }}</p>
         <h3 class="detail-header">Air Date</h3>
