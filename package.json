@@ -1,0 +1,22 @@
+{
+  "name": "bingelist",
+  "version": "1.0.0",
+  "description": "BingeList ================== A service for curating and easily viewing required episode lists for TV shows, cutting down binge watching and catching up dramatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altonchaney/bingelist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altonchaney/bingelist/issues"
+  },
+  "homepage": "https://github.com/altonchaney/bingelist#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

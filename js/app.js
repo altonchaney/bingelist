@@ -38,6 +38,6 @@ angular.module('bingeList', [
       });
       
       $locationProvider.html5Mode(true);
-      $locationProvider.hashPrefix('!');
+      //$locationProvider.hashPrefix('!');
   }
 ]);
