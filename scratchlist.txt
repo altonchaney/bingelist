@@ -1,0 +1,16 @@
+view functions needed
+
+api-related
+- get first and last year aired (or present if ‘running’ is there)
+- separate seasons into header separated divs
+- link my data with tvmaze
+- get episode count
+- insert season headers before each of first instance of a new season
+
+control-related
+- filter types
+- expand episodes
+- expand seasons 
+
+repeat season in episodes(maze)
+	season header

@@ -27,12 +27,12 @@
     h3 Season 1
     button.show-season-close
     -->
-    <div ng-show="{{ bingelist.season[episode.season].episode[episode.number] }}" class="show-episode close {{ bingelist.season[episode.season].episode[episode.number] }}">
+    <div ng-show="{{ bingelist.season[episode.season].episode[episode.number] }}" ng-class="{close: isClosed, open: !isClosed}" class="show-episode {{ bingelist.season[episode.season].episode[episode.number] }}">
       <h2 class="episode-number">{{ episode.season | twodigit }}.{{ episode.number | twodigit }}</h2>
       <h1 class="episode-title">{{ episode.name }}</h1>
       <h2 class="episode-aired">Aired {{ episode.airdate }}</h2>
-      <button class="episode-expand inactive"></button>
-      <div class="episode-details close">
+      <button ng-click="isClosed = !isClosed" ng-class="{inactive: isClosed, active: !isClosed}" class="episode-expand"></button>
+      <div collapse="isClosed" ng-class="{close: isClosed, open: !isClosed}" class="episode-details">
         <h3 class="detail-header">Synopsis</h3>
         <p class="detail-synopsis">{{ episode.summary }}</p>
         <h3 class="detail-header">Air Date</h3>

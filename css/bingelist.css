@@ -34,6 +34,17 @@
   opacity: 0;
   display: block !important;
 }
+.show-episode {
+  -webkit-transition: all linear 0.3s;
+  -moz-transition: all linear 0.3s;
+  -ms-transition: all linear 0.3s;
+  -o-transition: all linear 0.3s;
+  transition: all linear 0.3s;
+  opacity: 1;
+}
+.show-episode.ng-hide {
+  opacity: 0;
+}
 body {
   width: 100%;
   height: 100%;
@@ -325,7 +336,7 @@ section#break {
   width: 30px;
   height: 30px;
   float: left;
-  padding: 2px 0 0;
+  padding: 0;
   margin-right: 8px;
   text-align: center;
 }
