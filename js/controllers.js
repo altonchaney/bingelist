@@ -6,14 +6,15 @@ angular.module('bingelist-controllers', [])
 
 	// for each file name, get corresponding tvmaze data
 	
-	
-	
   $http.get('http://api.tvmaze.com/shows')
     .then(function(tvshows){
       $scope.tvshows = tvshows.data;
     });
-  // for each episode i need to get the episode count by id a la the individual show controller
-  // for each episode i need to get my json file by id and count the amount of filler / maybe / required episodes 
+  
+  // i need to isolate the show data i get to only the shows with corresponding json files
+  // for each show i need to get the episode count by id a la the individual show controller
+  // for each show i need to get my json file by id and count the amount of filler / maybe / required episodes 
+  
 })
 
 .controller('tvshowCtrl', function($scope, $http, $routeParams){
@@ -26,11 +27,33 @@ angular.module('bingelist-controllers', [])
 			
 			$scope.bingelist = bingelist.data;
 			
+			// a failed array counter
+// 			function foo(arr) {
+// 				var b = [], prev;
+// 		
+// 				arr.sort();
+// 				for ( var i = 0; i < arr.length; i++ ) {
+// 						if ( arr[i] !== prev ) {
+// 								b.push(1);
+// 						} else {
+// 								b[b.length-1]++;
+// 						}
+// 						prev = arr[i];
+// 				}
+// 		
+// 				return [b];
+// 			}
+// 			
+// 			var fooresult = foo($scope.bingelist.season.episode);
+// 			
+// 			console.log("# of eps: " + fooresult);
+			
 			$http.get('http://api.tvmaze.com/shows/' + showId + '?embed=previousepisode')
 				.then(function(tvshow){
 				
 					$scope.tvshow = tvshow.data;
 					console.log('i got the tvshow stuff');
+					
 					$http.get('http://api.tvmaze.com/shows/' + showId + '/episodes')
 						.then(function(episodes){
 							$scope.episodes = episodes.data;
@@ -39,8 +62,6 @@ angular.module('bingelist-controllers', [])
 						});
 				});
   	});
-  
-  
   
   // filter animations
   $scope.required = true;
@@ -90,26 +111,5 @@ angular.module('bingelist-controllers', [])
 	
 	// show episode details
 	$scope.isClosed = true;
-	
-  
-  // trying to count up duplicates in the episode array i provide
-  $scope.requiredCount = 0;
-	$scope.maybeCount = 0;
-	$scope.fillerCount = 0;
-	
-	angular.forEach($scope.bingelist, function(value, key) {
-			// Increment each number by one when you hit it
-			if (value.episode == 'required'){
-					$scope.requiredCount++;
-			} else if (value.episode == 'maybe'){
-					$scope.maybeCount++;
-			} else if (value.episode == 'filler'){
-					$scope.fillerCount++;
-			}
-	});
-	
-	console.log($scope.requiredCount);
-	console.log($scope.maybeCount);
-	console.log($scope.fillerCount);
 });
 			
