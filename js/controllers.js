@@ -3,6 +3,11 @@ angular.module('bingelist-controllers', [])
 // SHOW CONTROLLERS
 
 .controller('tvshowsCtrl', function($scope, $http){
+
+	// for each file name, get corresponding tvmaze data
+	
+	
+	
   $http.get('http://api.tvmaze.com/shows')
     .then(function(tvshows){
       $scope.tvshows = tvshows.data;
@@ -16,24 +21,26 @@ angular.module('bingelist-controllers', [])
   //var showId = $routeParams.showId; //testing one show
   var showId = 158;
   
-  $http.get('http://api.tvmaze.com/shows/' + showId + '?embed=previousepisode')
-    .then(function(tvshow){
-      $scope.tvshow = tvshow.data;
-      console.log('i got the tvshow stuff');
-    });
-  
-  $http.get('http://api.tvmaze.com/shows/' + showId + '/episodes')
-    .then(function(episodes){
-      $scope.episodes = episodes.data;
-      $scope.maxSeasons = Math.max.apply(Math,$scope.episodes.map(function(episode){return episode.season;}));
-       console.log('i got the episode stuff');
-    });
-  
   $http.get('../list/' + showId + '.json')
-    .then(function(bingelist){
-      $scope.bingelist = bingelist.data;
-      
-    });
+		.then(function(bingelist){
+			
+			$scope.bingelist = bingelist.data;
+			
+			$http.get('http://api.tvmaze.com/shows/' + showId + '?embed=previousepisode')
+				.then(function(tvshow){
+				
+					$scope.tvshow = tvshow.data;
+					console.log('i got the tvshow stuff');
+					$http.get('http://api.tvmaze.com/shows/' + showId + '/episodes')
+						.then(function(episodes){
+							$scope.episodes = episodes.data;
+							$scope.maxSeasons = Math.max.apply(Math,$scope.episodes.map(function(episode){return episode.season;}));
+							console.log('i got the episode stuff');
+						});
+				});
+  	});
+  
+  
   
   // filter animations
   $scope.required = true;
